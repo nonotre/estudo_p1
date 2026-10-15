@@ -81,7 +81,7 @@ RQD (%) = soma só dos pedaços com ≥ 10 cm (cm)       ÷ comprimento da manob
 ## Bloco 5 · Ensaios para usar a rocha
 
 - **Compressão simples (uniaxial)**: resistência da rocha intacta (MPa).
-- **Abrasão Los Angeles**: perda de massa da brita girando num tambor com esferas de aço: **% de desgaste** = (Pi − Pf)/Pi × 100. Quanto menor, melhor para pavimento e lastro.
+- **Abrasão Los Angeles**: perda de massa da brita girando num tambor com esferas de aço: **% de desgaste** = (Pi - Pf)/Pi × 100. Quanto menor, melhor para pavimento e lastro.
 - **Impacto Treton**, esmagamento: brita para lastro e pavimento.
 - **SPT** (no campo): N ≥ 50 golpes/30 cm ou avanço muito lento na lavagem = **impenetrável** → topo de rocha (ou rocha alterada dura).
 - **Escavabilidade**: 1ª categoria (solo, escava com lâmina), 2ª (rocha alterada, escarificador), 3ª (rocha sã, explosivo). Custo cresce de 1ª para 3ª.
