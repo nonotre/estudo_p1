@@ -1,0 +1,818 @@
+# Texto extraído de material/2_2026 Minerais RESUMO.pdf
+# Só o texto dos slides; figuras e fotos não aparecem aqui.
+
+===== página 1 =====
+MINERAIS
+
+===== página 2 =====
+Minerais
+ • CONCEITO - Substâncias químicas que
+   apresentam as seguintes características:
+              - Estado sólido
+             - Inorgânicos
+             - Estrutura cristalina
+        - Homogêneos – em termos da
+      composição química básica
+            - Origem natural
+
+===== página 3 =====
+CLASSIFICAÇÃO
+
+COMPOSIÇÃO QUÍMICA                          ESTRUTURA CRISTALINA
+
+GRUPO ANIÔNICO PREDOMINANTE                 7 SISTEMAS CRISTALOGRÁFICOS
+
+ • ELEMENTOS NATIVOS
+ (ouro, prata, cobre etc.)
+ • HALETOS (CL-, F -, Br)
+                                                     • ISOMÉTRICO
+ (Fluorita - CaF2)
+ • SULFETOS (S -)                                   • TETRAGONAL
+ (Pirita - FeS2)                                 • ORTORRÔMBICO
+ • BORATOS (BO3-3)                                   • HEXAGONAL
+ (Bórax - Na2B4O7 .10H2O)                              • TRIGONAL
+ • CARBONATOS (CO3-2)                              • MONOCLÍNICO
+ (Calcita CaCO3)                                      •TRICLÍNICO
+ • FOSFATOS (PO4)-2
+ (Apatita - Ca5 (PO4)3 . (Cl, F)
+ • ÓXIDOS (O2-)
+ (Hematita - Fe2O3)
+ • HIDRÓXIDOS
+ (Gibbsita - Al (OH)3
+ •SILICATOS (SiO4-4)
+ (+ abundantes - formadores de rochas)
+
+===== página 4 =====
+PARTÍCULAS NO MEIO GEOLÓGICO
+
+             - Diferentes tamanhos
+             - Constituídas por um ou mais minerais                        Soluções
+
+             - Minerais podem ser primários ou secundários
+
+Solução   Colóides   Argila       Silte           Areia       Seixo    Calhau         Matacã
+                                                                                      o
+
+                              0,002       0,075           2           63        200
+
+                     Tamanho das partículas (mm)
+
+===== página 5 =====
+ORIGEM DOS MINERAIS
+        FORMAÇÃO DAS ROCHAS E DOS SOLOS
+
+• CRISTALIZAÇÃO DO MAGMA (resfriamento)
+                ROCHAS ÍGNEAS
+• ALTERAÇÕES FÍSICO-QUÍMICAS (intemperismo)
+                 REGOLITO
+• SOLUÇÕES (precipitações e reações entre diferentes
+soluções)
+          ROCHAS SEDIMENTARES E REGOLITO
+
+• REAQUECIMENTO (metamorfismo e diagênese)
+        ROCHAS METAMÓRFICAS E SEDIMENTARES
+
+===== página 6 =====
+USGS Havai
+
+===== página 8 =====
+INTEMPERISMO
+
+                                       SOLO
+
+ÁGUA/TEMPO
+                           SAPROLITO
+
+                 ROCHA ALTERADA
+
+             ROCHA SÃ
+                  TEMPERATURA/TEMPO
+
+===== página 9 =====
+MATERIAIS GEOLÓGICOS
+                 (ROCHAS E REGOLITO) NOVOS
+                                     AGRUPAMENTOS
+                                                          DE MINERAIS
+
+                                    SOLOS/SEDIMENTOS
+            ROCHAS ÍGNEAS           SAPROLITOS
+CROSTA      ROCHAS METAMÓRFICAS                          REGOLITO
+                                    ROCHAS
+            ROCHAS SEDIMENTARES
+                                    ALTERADAS
+
+                                                    INTEMPERISMO
+ ROCHAS
+                                             SOB CONDIÇÕES
+               Agrupamentos de Minerais      CLIMÁTICAS (T , ÁGUA)
+
+                        IMPORTÂNCIA????
+
+         http://webmineral.com/danaclass.shtml#.W2SkmFVKiUk
+
+===== página 11 =====
+Minerais em uma rocha?
+
+===== página 14 =====
+MINERAIS X PROPRIEDADES
+
+- COMPOSIÇÃO QUÍMICA
+- ESTRUTURA CRISTALINA
+- TAMANHO
+- ASSOCIAÇÃO DE MINERAIS E PROPORÇÕES
+- GRAU DE ALTERAÇÃO
+
+===== página 16 =====
+Grafita e Diamante –
+Polimorfos de Carbono
+
+===== página 17 =====
+Hábito          https://www.britannica.com/science/mineral-
+                 chemical-compound/Examining-crystal-structures
+Hábito é a forma ou conjunto de formas que um mineral pode assumir
+
+===== página 20 =====
+• MINERAIS: 2 CATEGORIAS
+   – SILICATOS – CONTEM (SiO4)        NESOSSILICATOS
+   – NÃO-SILICATOS (NÃO SiO4)         SOROSSILICATOS
+  Pela sua abundância                 CICLOSSILICATOS
+  Por suas propriedades
+                                      INOSSILICATOS
+                         SILICATOS    TECTOSSILICATOS
+                                      FILOSSILICATOS
+                                      -Micas
+                                      -Minerais de Argila
+
+                           ÓXIDOS
+
+                         HIDRÓXIDOS
+                         CARBONATOS
+                          SULFETOS
+
+===== página 21 =====
+SILICATOS - CLASSIFICAÇÃO
+               ESTRUTURAL
+                                                        Tetraedro SiO4-: a direita, o
+                                                        tamanho das esferas é
+                                                        proporcional aos raios iônicos
+                                                        de Si4+ e de O2-
+Nesossilicatos - Tetraedros isolados [SiO4]4-, sem
+vértices comuns ligados; ligações através de cátions;
+grau de polarização = 0. Ex: zircão, olivinas,
+granadas
+
+Sorossilicatos - Polarização de 2 grupos de
+tetraedros [Si2O7]6, apenas 1 vértice comum;
+tetraedros rotacionados de 180o. Ex: Alanita
+
+Ciclossilicatos - Tetraedros arranjados em anéis de
+3, 4, 6 ou mais; dois vértices em comum [Si6O18]. Ex:
+berilo, turmalina
+
+===== página 22 =====
+Inossilicatos - Tetraedros com 2 ou 3
+vértices comuns, agrupados em cadeias
+simples ou duplas [Si2O6] ou [Si4O11]. Ex:
+piroxênios (cadeia simples) e anfibólios
+(cadeias duplas).
+
+Filossilicatos - Tetraedros com 3 vértices
+comuns [Si4O10]: arranjo em camadas
+bidimensionais. Em cada camada os
+tetraedros têm os vértices orientados para o
+mesmo lado; polimerização pseudo-
+hexagonal. Ex: micas, argilominerais, talco,
+serpentina
+
+Tectossilicatos - Polimerização máxima; 4
+vértices em comum [SiO2] ou [(Si,Al)O2]n;
+arranjo tridimensional. Ex: quartzo,
+feldspatos,zeólitas, feldspatóides
+
+===== página 23 =====
+Grupos                          Minerais                            Minerais
+   Cristaloquímicos                     Primários                          Secundários
+
+     Nesossilicatos                      Olivina
+ (Tetraedros isolados)                   Zirção
+     Sorossilicatos                      Alanita
+(Tetraedros dois a dois)
+     Ciclossilicatos                   Turmalina
+ (Tetraedros em anéis)                   Berilo
+      Inossilicatos                    Piroxênios
+(Tetraedros em cadeias)                Anfibólios
+     Filossilicatos        Tipo 1/1: Serpentinas                Tipo 1/1: Ilita, Caulinita, Haloisita
+(Tetraedros em folhas)     Tipo 2/1: Micas, Biotita,Muscovita   Tipo 2/1:, Esmectita,Vermiculita
+                           Tipo 2/1: Cloritas                   Tipo 2/1/1: Cloritas secundárias
+     Tectossilicatos       Silicatos puro: Quartzo                Opala, Tridimita, Cristobalita,
+ (Tetraedros estrutura     Aluminossilicatos: Feldspato,                     Zeólitas
+                           Fedspatóides
+    tridimensionais)
+     Constituintes         Vidro Vulcânicos                     Alofanas
+       Amorfos
+
+===== página 24 =====
+Silicatos
+
+                            Mica
+
+ Ortoclásio
+
+Olivina
+                            Piroxenio
+
+                  Quartzo
+
+===== página 25 =====
+FILOSSILICATOS X MINERAIS DE ARGILA X MATERIAIS GEOLÓGICOS
+
+===== página 26 =====
+MINERAIS DE ARGILA
+
+===== página 31 =====
+Não-Silicatos
+                              Espinélio
+                              (Óxido)
+Halita
+
+                                            Gipso
+                                            (Sulfato)
+
+                                                  Hematita
+                                     Calcita      (Oxido)
+                        Pirita
+          Galena                   (Carbonato)
+                      (Sulfeto)
+         (Sulfeto)
+
+===== página 32 =====
+Óxidos e hidróxidos
+
+                       Fe2O3
+
+                       CARBONATOS
+Ficheiro:Calcite.JPG
+
+                                             CaCO3
+
+===== página 33 =====
+ENGENHARIA CIVIL
+  USO COMO AGREGADOS
+ AREIAS – TECTOSILICATOS + ÓXIDOS
+              CERAMICAS – FILOSILICATOS + HIDRÓXIDOS
+               CIMENTOS - CARBONATOS
+PROPRIEDADES (Função dos minerais e arranjo 3D das
+partículas)
+
+-Condutividade Hidráulica
+                                   MINERAIS x ÁGUA
+-Resistência
+-Compressibilidade
+-Expansibilidade
+-Cavernas
+-Retenção de Poluentes
+
+===== página 34 =====
+ENGENHARIA CIVIL
+                       MINERAIS
+     Primários                        Secundários
+
+Estáveis         Instáveis    Caulinita      Goethita
+Quartzo      Piroxênios       Ilita
+Coríndon     Anfibólios       Esmectitas
+Rutilo       Olivinas
+Ilmenita     Sulfetos
+Magnetita    Feldspatos
+Hematita
+
+===== página 35 =====
+ÂNGULO DE ATRITO     RESISTÊNCIA AO
+                     CISALHAMENTO
+Quartzo 23 -27
+Calcita 30 – 34
+Feldspato 30 – 37
+Muscovita 13 – 15
+Biotita 8
+Clorita 13
+Esmectitas 12 – 15
+Caulinita 12 – 22
+Serpentina 16 – 26
+Ilita 10 - 12
+
+===== página 36 =====
+AGREGADOS
+
+MINERAIS REATIVOS           MINERAIS PROBLEMÁTICOS
+
+  - Opala                        - Minerais de argila
+  - Obsidiana                    - Micas
+  - Cristobalita                 - Talco
+  - Tridimita
+  - Calcedônia
+  - Sílex
+  - Quartzo tensionado
+  - Carbonatos
+  - Haletos
+  - Sulfetos
+
+===== página 37 =====
+MINERAIS                  TENDÊNCIA DO COMPORTAMENTO
+               Alta %     DE PROPRIEDADES GEOTÉCNICAS?
+
+ Materiais
+ geológicos               ABSORÇÃO DE ÁGUA
+
+               Baixa
+               %
+              Minerais
+              de argila
+
+===== página 40 =====
+IDENTIFICAÇÃO DOS MINERAIS
+ - BANCO DE DADOS
+
+ http://webmineral.com/danaclass.shtml#.W2SkmFVKiUk
+
+ https://museuhe.com.br/mineral/
+
+ - TABELAS
+
+ DANA, J.D. 1976. Manual de mineralogia. Rio de Janeiro, vol 1 e 2.
+
+  - GUIAS
+  LEINZ, V. e SOUZA CAMPOS, J.E. 1982. Guia para determinação
+  de minerais. Comp.Editora Nacional, São Paulo, 149 p.
+
+===== página 41 =====
+CLIVAGEM E                                            UTILIZAÇÃO
+NOME E FÓRMULA           TRAÇO           COR                  BRILHO              DUREZA                                      HÁBITOS
+                                                                                                 FRATURA                                              MAIS COMUM
+                                                                                                                                                      cosméticos, tintas,
+      Talco                                                                                                             séctil, placas flexíveis,         suporte de
+                         incolor     verde e branca     não metálico (perláceo)   1,0 – 1,5        cl. perfeita
+  3MgO.4SiO2.H2O                                                                                                       plásticas, untuoso ao tato     inseticida, velas de
+                                                                                                                                                            motores
+                                    incolor, branca,
+        Gipso                                           não metálico (perláceo
+                         incolor      cinza, rosa,                                1,5 – 2,0        cl. perfeita       prismático, granular, fibroso    Construção civil
+     CaSO4.2H2O                                              ou vítreo)
+                                        amarela
+     Muscovita                                                                                                                                        isolante térmico e
+                         incolor        incolor          não metálico (vítreo)    2,0 – 2,5        cl. perfeita             placas elásticas
+K2O3Al2.O3.6SiO2.2H2O                                                                                                                                      elétrico
+         Clorita                                        não metálico (vítreo à
+                         incolor         verde                                    2,0 – 2,5        cl. perfeita        tabular, placas inelásticas             -
+ (silicato de Fe e Mg)                                       nacarado)
+       Caulim                        branca, cinza,                                                                                                      cerâmicas –
+                         incolor                        não metálico (terroso)    2,0 – 2,5        cl. perfeita            compacto, friável
+  Al2O3.2SiO2.2H2O                       rosa                                                                                                              cimento
+       Calcita                      branca, incolor,    não metálico (vítreo à                                                                          fabricação de
+                         incolor                                                    3,0        cl. em três direções    romboédrico, prismático
+       CaCO3                        cinza, amarela           terreoso)                                                                                     cimento
+                                        incolor,
+       Fluorita                                                                                                                                            fundente,
+                         incolor    esverdeada, azul,    não metálico (vítreo)      4,0            cl. perfeita       cúbico, granular compacto
+        CaF2                                                                                                                                            cerâmica, flúor
+                                      rosa, violeta
+      Nefelina                                           não metálico (vítreo
+                         incolor     incolor, branca                              5,0 – 6,0             -                 granular prismático                  -
+3Na2O.K2O.4Al2O39SiO                                         gorduroso)
+ Feldspato Ortoclásio               vermelho, cinza,                                           cl. em duas direções       prismático, maciço
+                         incolor                         não metálico (vítreo)      6,0                                                                porcelana, vidro
+  K2O.Al2O3.6SiO2                       branco                                                quase perpendiculares           compacto
+                         incolor,    verde escuro à                                            cl. perfeita ângulo
+Hornblenda (Anfibólio)                                   não metálico (vítreo)    5,0 – 6,0                              prismáticos, acicular                 -
+                          verde          preta                                                         124º
+                                     verde escura à
+  Augita (Piroxênio)     incolor                         não metálico (vítreo)    6,0 – 6,5       cl. boa (87º)               prismáticos                      -
+                                         preta
+     Olivina                             verde,
+                         incolor                         não metálico (vítreo)    6,0 – 7,0        cl. perfeita       tabular, prismática, granular            -
+  2MgO.2FeO.SiO2                      avermelhada
+     Sillimanita
+                         incolor        castanha         não metálico (vítreo)    6,0 – 7,0        cl. perfeita                 fibrosos                       -
+     Al2O3SiO2
+     Granadas                         vermelha,                                                                       cristais bem formados com
+                         incolor                            vítreo resinoso       6,5 – 7,5    fratura conchoidal                                      jóias e abrasivos
+   3RO.R2O3.3SiO2                   amarela e preta                                                                           muitas faces
+
+===== página 42 =====
+CLIVAGEM E                                            UTILIZAÇÃO
+NOME E FÓRMULA             TRAÇO           COR                 BRILHO              DUREZA                                     HÁBITOS
+                                                                                                 FRATURA                                              MAIS COMUM
+       Quartzo                             branca a                                                                                                      cerâmicas,
+                            incolor                       não metálico (vítreo)      7,0       fratura conchoidal         cristais prismáticos
+        SiO2                             translúcido                                                                                                   abrasivo, vidro,
+      Turmalina
+                                        preta, azul,
+(silicato complexo de       incolor                       não metálico (vítreo)    7,0 – 7,5   fratura conchoidal        prismáticos estriados               jóias
+                                      verde, vermelha
+   boro e alumínio)
+        Zircão                                                                                                                                            minério de
+                            incolor       castanha        não metálico (vítreo)      7,5        fratura conchoidal      prismáticos, granulares
+       ZrO2SiO2                                                                                                                                            zircônio
+        Galena               cinza                                                                                    cristais cúbicos octaédricos        minério de
+                                       cinza chumbo             metálico             2,5           cl. perfeita
+         PbS                escuro                                                                                           muito pesados                 chumbo
+       Ilmenita                                                                                                                                       minério de titânio-
+                            preto           preta               metálico           5,0 – 6,0   fratura conchoidal               tabular
+      FeOCr2O3                                                                                                                                            pigmento
+       Hematita            vermelho
+                                        preta a cinza           metálico           5,5 – 6,5            -                   tabular, granular          minério de ferro
+        Fe2O3              e marrom
+      Magnetita                                                                                fratura conchoidal a       cristais octaédricos         minério de ferro,
+                            preto           preta               metálico             6,0
+       Fe3O4                                                                                         irregular                magnéticos                  abrasivo
+         Pirita                                                                                                                                          fabricação de
+                            preto         amarela               metálico           6,0 – 6,5            -                        cúbico
+         FeS2                                                                                                                                               H2SO4
+ Biotita K (Mg, Fe)3                  castanho escuro a       não metálico
+                            incolor                                                2,5 – 3,0       cl. perfeita             placas elásticas                   -
+  (AlSi3O10)(OH)2                           preta              (reluzente)
+      Calcedônia                       branco, cinza,
+                                                                                                                                                       ornamentação e
+Var. criptocristalina do    incolor   preto, vermelho,    não metálico (ceroso)      7,0       fratura conchoidal               fibroso
+                                                                                                                                                          decoração
+        quartzo                            verde
+                                       verde, cinza,
+       Opala                                              não metálico (vítreo a
+                            incolor    azul, incolor,                              5,0 – 6,0   fratura conchoidal           maciço, amorfo                   jóias
+     SiO2 n H2O                                                resinoso)
+                                      branca, amarela
+        Apatita                                           não metálico (vítreo a
+                            incolor      verde, azul                                 5,0       fratura conchoidal     granular, prismático, tabular   jóias, fertilizantes
+Ca5 (F, Cl, OH)(PO4)3                                          resinoso)
+Feldspato Plagioclásio
+                            incolor        branco         não metálico (vítreo)      6,0           cl. perfeita                prismático              porcelana, vidro
+  Ca/Na (Al Si3 08)
+                                                                                                                                                      fabricação de vidro
+     Lepidolita                        róseo, violeta,    não metálico (vítreo a
+                            incolor                                                2,5 – 3,0       cl. perfeita             placas elásticas          resistente ao calor,
+(OH, F) KLi Al2Si2O10                 amarelo, branco          resinoso)
+                                                                                                                                                         fonte de lítio
+
+===== página 43 =====
+LUPA                  MINERAL
+                                         TAMANHO DA AMOSTRA
+Colóides   Argila    Silte       Areia         Seixo               Calhau          Matacão
+
+               0.002     0.075            2                       63        200
+                                                Tamanho das partículas (mm)
+0.001
+
+                    MICROSCÓPICA          MACROSCÓPICA                        HABITO
+
+                                 BRILHO                PESO ESPECÍFICO
+
+                    OUTRAS CORES               COR               AMARELA
+                                                                 PRETA
+
+                             DUREZA                               TRAÇO
+                                                              REAÇÃO COM ÁCIDOS
+                                                                MAGNETISMO
+
+===== página 44 =====
+TÉCNICAS
+➢Análise dos caracteres físicos
+macroscópicos
+                                          ➢Estudo das propriedades
+                                          ópticas com o microscópio
+➢Estudos por raios X                      petrográfico
+➢Ensaios químicos para determinar a sua
+composição.
+
+===== página 45 =====
+PROPRIEDADES FÍSICAS
+
+- Ópticas – cor, risco e brilho;
+- Mecânicas – dureza, clivagem, fractura;
+- Densidade.
+
+CARACTERIZADAS POR:
+
+ - Observações diretas sem nenhum recurso
+ - Com uso de lupas de mão
+ - Com lupas digitais
+ - Equipamentos simples ou sofisticados
+
+===== página 46 =====
+Canivete
+               Placa de Vidro    Dureza
+Equipamentos   Unha
+               Placa de Porcelana (Cor do Traço)
+               Lupa
+               Imã
+               Ácido Clorídrico
+
+===== página 48 =====
+MINERAL
+
+               TAMANHO DA AMOSTRA
+
+MICROSCÓPICA    MACROSCÓPICA                 HABITO
+
+                PESO ESPECÍFICO
+
+OUTRAS CORES         COR            AMARELA
+                                    PRETA
+
+     DUREZA                          TRAÇO
+
+                                  REAÇÃO COM ÁCIDOS
+
+                                   MAGNETISMO
+
+===== página 49 =====
+Densidade
+
+A densidade absoluta de uma substância traduz a relação entre a
+massa por unidade de volume.
+
+A densidade depende das partículas (átomos ou íons) que constituem
+          o mineral e do tipo de arranjo dessas partículas.
+
+  Para a identificação dos minerais, recorre-se à densidade relativa,
+              podendo utilizar-se qualquer dos métodos.
+
+===== página 50 =====
+Cor dos minerais
+   Cor – Deve ser observada numa superfície de fratura recente
+
+Idiocromático – cor constante.             Alocromático – cor
+                                           variável.
+Exemplos:
+                                           Exemplos:
+•Verde para a malaquita;
+                                           •Quartzo – incolor, branco,
+•Cinzento para a galena;                   róseo, violeta, amarelo ou
+•Amarelo de latão para a pirita.           negro.
+
+===== página 51 =====
+Minerais que apresentam cores características constantes.
+
+      Enxofre                           Olivina
+
+===== página 52 =====
+Minerais que apresentam uma gama variada de cores
+
+                               Turmalinas
+
+===== página 53 =====
+Quartzo (SiO2) – muitas
+    cores
+
+===== página 54 =====
+Traço
+
+- cor do mineral reduzido a pó;
+- a cor do traço de um mineral não coincide sempre com a
+sua cor;
+- diferentes variedades da mesma espécie mineral exibem
+sempre o traço com a mesma cor;
+- o traço é uma propriedade constante, enquanto que a cor
+pode ser uma propriedade variável.
+Exemplo: Hematita
+
+===== página 55 =====
+Brilho
+
+O brilho consiste no efeito produzido pela qualidade e intensidade
+da luz refletida numa superfície de fratura recente do mineral.
+
+===== página 56 =====
+METÁLICO
+
+         brilho intenso semelhante ao observado nos metais
+BRILHO
+          NÃO METÁLICO
+
+         característico dos minerais transparentes
+         ou translúcidos
+
+===== página 58 =====
+Clivagem
+
+ Ruptura por ação mecânica
+
+           Superfícies planas, brilhantes, regulares
+           e com direções bem definidas e constantes
+                        1 direção
+                        2 direções
+                        3 direções
+
+===== página 59 =====
+Clivagem – Não é a mesma coisa que a forma do cristal
+       Tendência em quebrar nos planos de fraqueza
+       Pode produzir fatias finas
+       Descritas normalmente por:
+              Numero de planos
+              Ângulos entre planos adjacentes
+
+===== página 60 =====
+Clivagem perfeita em 3 direções –
+     fluorita, halita, e calcita
+
+===== página 61 =====
+Micas tem clivagem
+perfeita em uma só direção
+
+                      Muscovita
+
+===== página 62 =====
+Fratura
+- Quebras irregulares - sem planos definidos
+
+- ligações no cristal são igualmente fortes, qualquer que seja
+a direcção considerada.
+
+- as superfícies de fratura não se repetem paralelamente a si
+mesmas e podem apresentar diferentes aspectos.
+
+===== página 63 =====
+Quartzo
+
+Rupturas irregulares
+por percussão
+
+===== página 64 =====
+Quartzo - Fratura conchoidal
+
+===== página 65 =====
+Clivagem ou Fratura?
+1.                2.
+
+3. 3.
+                       CalciteChunkSml
+
+                 4.
+
+===== página 66 =====
+Dureza
+Resistência ao sulcamento da superfície do
+mineral – é condicionada pela estrutura e pelo tipo de ligações
+entre as partículas e, por isso, pode variar com a direção
+considerada.
+
+                                         ESTÁ RELACIONADA
+                                         A RESISTÊNCIA
+                                         MECÂNICA
+
+===== página 67 =====
+- a determinação da
+                                              dureza dos minerais
+                                              é feita em relação aos
+                                              termos de uma escala
+                                              de dureza;
+
+- qualquer mineral da escala SULCA todos os que estão abaixo dele, não
+sendo SULCADO por eles.
+
+===== página 68 =====
+-quando não se dispõe de uma escala de Mohs, podem utilizar-se
+             diferentes materiais, como:
+
+===== página 69 =====
+-Qual o mineral que é
+riscado?
+
+-Qual o mineral que
+apresenta maior dureza?
+
+===== página 70 =====
+Escala de Mohs comparada com uma escala de dureza
+                        absoluta.
+
+A diferença de dureza
+   absoluta entre o
+coríndon e o diamante
+é muito maior do que
+aquela que existe entre
+     o topázio e o
+      coríndon.
+
+===== página 71 =====
+• Outras propriedades que auxiliam na
+  identificação de minerais
+
+    • Magnetismo
+    • Maleabilidade
+    • Refração dupla
+    • Sabor
+    • Cheiro
+    • Elasticidade
+
+===== página 72 =====
+MAGNETISMO
+
+===== página 73 =====
+Propriedades químicas
+- Testes MAIS COMUNS
+Reação com ácido clorídrico diluído
+
+             Os CARBONATOS efervece com os ácidos.
+
+===== página 75 =====
+Propriedades Determinadas
+
+Tabelas de Minerais com suas propriedades
+
+      Identificação e Classificação
+
+===== página 76 =====
+PROCEDIMENTOS PARA IDENTIFICAÇÃO DE MINERAIS
+
+1   Reconhecer o Brilho
+
+              Metálico
+
+                                  VÍTREO, RESINOSO, CEROSO E
+              Não Metálico
+                                  PERLÁCEO
+
+                                  INCOLOR, BRANCO, VERDE
+2   Cor do Mineral
+                                  (CLARO, ESCURO),
+
+                                  VERMELHO, ETC.
+
+===== página 77 =====
+MINERAL “+DURO” SULCA O “-
+3   Dureza
+                                  DURO”
+
+                                    Mineral     Dureza   Comparativo
+
+                                     Talco        1
+
+                                    Gipsita       2      Unha (2,5)
+                   Baixa:   1-2
+                                    Calcita       3
+
+                                    Fluorita      4
+                   Média:   3-5
+                                    Apatita       5      Canivete (5)
+
+                                   Ortoclásio     6      Vidro (5,5)
+                    Alta:   >5
+                                    Quartzo       7      Quartzo (7)
+
+                                    Topázio       8
+                                   Coríndon       9
+                                   Diamante      10
+
+4   Cor do Traço
+
+                                  COR DO PÓ DO MINERAL –
+             Porcelana
+                                  PORCELA DUREZA  6
+
+===== página 78 =====
+5   Hábito do Mineral
+
+                        Hábito                             Características
+
+                        Acicular         Mineral em cristais delgados, semelhantes a agulhas
+
+                        Colunar         Mineral em indivíduos grossos, semelhantes a colunas
+
+                 Tabular ou lamelar           Mineral achatado, em lamelas sobrepostas
+
+                     Laminado                    Mineral em finas lâminas achatadas
+
+                        Foliáceo        Mineral que se separa facilmente em lâminas ou folhas
+
+                        Fibroso            Agregado subparalelo de cristais finos e fibrosos
+
+                        Granular               Mineral em forma de agregado de grãos
+
+                        Maciço                   Mineral compacto de forma irregular
+
+                        Terroso             Mineral com aspecto de massa de barro seco
+
+                     Botrioidal       Agregado com proeminências arredondadas (cacho de uva)
+
+===== página 79 =====
+6   Outras Propriedades
+
+                        Magnetismo
+
+                        Reação ao Ácido
+
+                        Clivagem
+
+                        Fratura
+
+                        Canivete
+                        Placa de Vidro    Dureza
+Equipamentos            Unha
+                        Placa de Porcelana (Cor do Traço)
+                        Lupa
+                        Imã
+                        Ácido Clorídrico
+
+===== página 80 =====
+Propriedades Determinadas
+
+Tabelas de Minerais com suas propriedades
+
+      Identificação e Classificação

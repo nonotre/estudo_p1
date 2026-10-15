@@ -1,0 +1,615 @@
+# Texto extraído de material/6_SGS0405_A7_2026 resumo.pdf
+# Só o texto dos slides; figuras e fotos não aparecem aqui.
+
+===== página 1 =====
+SGS0405 – 2026 1
+
+    INTEMPERISMO - CLASSIFICAÇÃO DAS ROCHAS
+           PARÂMETROS GEOTÉCNICOS
+
+Introdução
+1 – Alteração das Rochas: Manto de Intemperismo
+2 – Parâmetros Geotécnicos
+2.1 – Grau de Alteração/Coerência
+2.2 – Recuperação (%)
+2.3 – Grau de Fraturamento
+2.4 – Índices Obtidos Por Ensaios (AGREGADOS)
+
+Leitura complementar:
+Livro GE, Cap. 13
+
+===== página 2 =====
+SGS0405 – 2026 2
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: INTRODUÇÃO
+
+                                                                 EXTRUSIVAS
+                                                   ÍGNEAS                      SUBSUPERFICIAL
+                                                                 INTRUSIVAS
+                                                                                PROFUNDAS
+
+                 CLASSIFICAÇÃO DAS ROCHAS POR
+                                                                                 RUDÁCEAS
+
+                                                                 CLÁSTICAS      ARENÁCEAS
+
+                  ORIGEM – GENÊSE - GEOLÓGICA
+                                                SEDIMENTARES     QUÍMICAS        LUTÁCEAS
+
+                                                                 ORGÂNICAS
+
+                                                                DE CONTATO -
+                                                               HIDROTERMAIS
+                                                                  REGIONAIS
+                                                METAMÓRFICAS
+                                                               DINAMOTERMAIS
+
+                                                                 DINÂMICAS
+
+===== página 3 =====
+SGS0405 – 2026 3
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: INTRODUÇÃO
+
+           ROCHAS: CLASSIFICAÇÃO GENÉTICA (GEOLÓGICA) VERSUS GEOTÉCNICA
+
+                                                                         ROCHAS ÍGNEAS
+                             OBRA CIVIL                                                   ROCHAS DURAS
+                                                                         METAMÓRFICAS
+        ROCHAS
+                                                   CLASSIFICAÇÃO
+     CLASSIFICAÇÃO
+                                                    GEOTÉCNICA
+       GENÉTICA
+                          COMPORTAMENTO                                     ROCHAS
+                                                                                         ROCHAS BRANDAS
+                            MECÂNICO E                                   SEDIMENTARES
+                            HIDRÁULICO
+                           ALTERABILIDADE
+
+                   ROCHAS CLASSIFICADAS GENETICAMENTE PODEM SER
+             INTERPRETADAS EM MODELOS PRELIMINARES MAIS DETALHADOS DE
+                  COMPORTAMENTO FRENTE A DETERMINADA OBRA CIVIL
+
+===== página 4 =====
+SGS0405 – 2026 4
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: INTRODUÇÃO
+
+                                 ROCHAS: CLASSIFICAÇÃO GENÉTICA E COMPORTAMENTOS GEOTÉCNICOS
+                                               ESPERADOS EM OBRAS SUBTERRÂNEAS
+
+  “QUALIDADE” DA ROCHA DIMINUI
+                                            CUSTO DA OBRA AUMENTA
+
+===== página 5 =====
+SGS0405 – 2026 5
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: INTRODUÇÃO
+
+             ALTERAÇÃO DAS ROCHAS – MANTO DE INTEMPERISMO
+
+                                                                        SOLO
+                        SEDIMENTO               EROSÃO E
+                                                DEPOSIÇÃO
+
+                                                                  PEDOGÊNESE
+                                                                                                MANTO DE
+                                LITIFICAÇÃO                                                   INTEMPERISMO
+
+      ROCHA                                              -
+                                                     PRESSÃO           INTEMPERISMO
+    SEDIMENTAR                                        E TEMP.
+
+                                                        +                                        ROCHA
+                               METAMORFISMO
+                                                                                                 ÍGNEA
+                                                               SOLIDIFICAÇÃO
+                                                                 (MAGMA)
+
+               ROCHA                           FUSÃO PARCIAL
+            METAMÓRFICA
+                                                                                BASEADO EM DECIFRANDO A TERRA (2000)
+
+===== página 6 =====
+SGS0405 – 2026 6
+
+1 – ALTERAÇÃO DAS ROCHAS: MANTO DE INTEMPERISMO
+
+===== página 7 =====
+SGS0405 – 2026 7
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 1 ALTERAÇÃO DAS ROCHAS
+
+                                                                                            TEMPO
+                                                                                            CLIMA
+                 ROCHA EXPOSTA                                 FORMAÇÃO DO                  RELEVO
+                                           ALTERAÇÃO
+                 NA OU PRÓXIMO                                   MANTO DE
+                                        FÍSICO-QUÍMICA
+                  DA SUPERFÍCIE                                INTEMPERISMO
+                                                                                         ROCHA
+                                                                                        BIOSFERA
+
+                                                                                TEMPO
+          Batólito de granito (Carangola, MG)
+
+===== página 8 =====
+SGS0405 – 2026 8
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 1 ALTERAÇÃO DAS ROCHAS
+
+                                                                  DADOS DE
+                                                                  SUPERFÍCIE
+                                           OBRA CIVIL
+                                                                  DADOS DE
+                                                                SUBSUPERFÍCIE
+
+   SOLO
+   ROCHA
+
+                                                                                                 ?
+
+===== página 9 =====
+SGS0405 – 2026 9
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 1 ALTERAÇÃO DAS ROCHAS
+
+                                                              MACIÇO TERROSO: ESCAVÁVEL POR
+                                                               MEIOS MECÂNICOS, PARTÍCULAS
+                                                                    SÓLIDAS E VAZIOS,
+                                                                ARGILOMINERAIS,
+                                                              MACIÇO  TERROSO   BIOSFERA;
+
+                                                                   0
+MACIÇO TERROSO                                                     4
+                                                                   8
+                                                                 12
+                                                                 16
+            MACIÇO ROCHOSO
+                                                                 20
+                                                                 24
+                                                                 28
+                                                                 32
+                                                                 36
+                                                                 m
+MACIÇO ROCHOSO
+                                                       MACIÇO ROCHOSO: POUCO ESCAVÁVEL
+                                                        (EXPLOSIVOS), DESCONTINUIDADES,
+                                                       MINERAIS PRIMÁRIOS E SECUNDÁRIOS
+                                                                 (ALTERAÇÃO).
+        FOTO AUGUSTO FILHO (2002)
+
+===== página 10 =====
+SGS0405 – 2026 10
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 1 ALTERAÇÃO DAS ROCHAS
+
+            CLASSIFICAÇÃO GEOLÓGICO-GEOTÉCNICA DO MANTO/PERFIL DE INTEMPERISMO
+
+             CRITÉRIOS
+            PARÂMETROS
+           QUALITATIVOS E
+           QUANTITATIVOS
+
+    CONTATOS
+
+    MACIÇO              MACIÇO
+    TERROSO            ROCHOSO
+
+           S1                R3
+
+           S2                R2
+
+                             R1
+
+                                                    R1
+
+                      Fonte: (Vaz, 1996)
+
+===== página 11 =====
+SGS0405 – 2026 11
+
+2 – PARÂMETROS GEOTÉCNICOS
+
+===== página 12 =====
+SGS0405 – 2026 12
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2 PARÂMETROS GEOTÉCNICOS
+
+       ACESSO ÀS CARACTERÍSTICAS DO MACIÇO ROCHOSO:
+
+           AFLORAMENTOS NATURAIS / CORTES / ESCAVAÇÕES
+           TESTEMUNHOS DE SONDAGEM MECÂNICA (ROTATIVA)
+
+           AMOSTRAS DO MACIÇO ROCHOSO OBTIDAS POR
+           MEIO DE SONDAGENS MECÂNICAS.
+           AMOSTRAGEM PONTUAL – SELEÇÃO ADEQUADA
+           DA LOCALIZAÇÃO DOS FUROS –
+           REPRESENTATIVIDADE ( = 5 A 8 CM).
+           NECESSIDADE DE INTERPRETAÇÕES,
+           INTERPOLAÇÕES E GENERALIZAÇÕES.
+
+           MÉTODOS INDIRETOS – GEOFÍSICOS:
+           MEDIÇÃO DE PROPRIEDADES FÍSICAS E
+           CORRELAÇÕES
+
+===== página 13 =====
+SGS0405 – 2026 13
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2 PARÂMETROS GEOTÉCNICOS
+
+    ACESSO ÀS CARACTERÍSTICAS DO MACIÇO ROCHOSO:
+
+ EXPOSIÇÕES (AFLORAMENTOS) NATURAIS: ESCARPAS, SERRAS, ETC.)
+
+===== página 14 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2 PARÂMETROS GEOTÉCNICOS   SGS0405 – 2026 14
+
+     ACESSO ÀS CARACTERÍSTICAS DO MACIÇO ROCHOSO:
+      TESTEMUNHOS DE SONDAGEM
+
+===== página 15 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2 PARÂMETROS GEOTÉCNICOS   SGS0405 – 2026 15
+
+    ACESSO ÀS CARACTERÍSTICAS DO MACIÇO ROCHOSO:
+     SONDAGENS INDIRETAS - GEOFÍSICAS
+
+===== página 16 =====
+SGS0405 – 2026 16
+
+2.1– GRAU DE ALTERAÇÃO
+
+===== página 17 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.1 GRAU DE ALTERAÇÃO   SGS0405 – 2026 17
+
+      GRAU DE ALTERAÇÃO
+
+            CONJ. DE MODIFICAÇÕES FÍSICO-QUÍMICAS
+            SOFRIDAS PELAS ROCHAS: REDUÇÃO DE SUA
+            RESISTÊNCIA; ALTERAÇÕES NAS SUAS
+            CARACTERÍSTICAS HIDRÁULICAS
+            (PERMEABILIDADE E POROSIDADE).
+
+            ALTERAÇÃO / INTEMPERISMO: PROCESSOS
+            FÍSICOS, QUÍMICOS E BIOLÓGICOS DE FORMAÇÃO
+            DO MACIÇO TERROSO (INTERAÇÃO GEOSFERAS).
+
+            ANÁLISE TÁCTIL-VISUAL: COR E BRILHO DOS
+            MINERAIS, FRIABILIDADE.
+
+            CLASSIFICAÇÃO RELATIVA: COMPARAÇÃO ENTRE
+            SITUAÇÕES DENTRO DO MESMO TIPO LITOLÓGICO.
+
+            APLICÁVEL PARA ROCHAS CRISTALINAS
+            (“DURAS”): ÍGNEAS E METAMÓRFICAS
+
+===== página 18 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.1 GRAU DE ALTERAÇÃO   SGS0405 – 2026 18
+
+                GRAU DE ALTERAÇÃO
+
+===== página 19 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.1 GRAU DE ALTERAÇÃO   SGS0405 – 2026 19
+
+    COERÊNCIA
+
+          APLICÁVEL PARA ROCHAS SEDIMENTARES.
+
+          UTILIZA AS PROPRIEDADES DE TENACIDADE,
+          DUREZA E FRIABILIDADE DAS ROCHAS ATRAVÉS
+          DA AVALIAÇÃO DA RESISTÊNCIA AO IMPACTO DO
+          MARTELO E AO RISCO COM LÂMINA DO
+          CANIVETE.
+
+          EM ROCHAS SEDIMENTARES (ARENOSAS) A
+          EVOLUÇÃO DA ALTERAÇÃO MUITAS VEZES NÃO
+          SE MANIFESTA DIRETAMENTE PELAS VARIAÇÕES
+          CROMÁTICAS.
+
+          EM ALGUNS CASOS A EVOLUÇÃO DA ALTERAÇÃO
+          PODE MELHORAR AS PROPRIEDADES MECÂNICAS
+          E HIDRAÚLICAS DAS ROCHAS SEDIMENTARES
+          (ARENITO SEM E COM LIMONITIZAÇÃ0).
+
+===== página 20 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.1 GRAU DE ALTERAÇÃO         SGS0405 – 2026 20
+
+ALTERAÇÃO                SIGLA - NOME                                     CARACTERÍSTICAS
+                                                Minerais apresentam-se pulverulentos e totalmente sem brilho.
+                                                Quebra facilmente ao golpe do martelo.
+                                  ROCHA MUITO A
+                                                As bordas dos fragmentos podem ser quebradas pela pressão
+                          A3      EXTREMAMENTE
+                                  ALTERADA      dos dedos.
+                                                A lâmina de aço provoca acentuado na superfície do
+                                                fragmento.
+
+                                               Minerais medianamente alterados, em geral, sem brilho.
+                                  ROCHA MEDIA- Materiais de alteração mascarando a cor original da rocha.
+                        A2        NAMENTE
+                                  ALTERADA
+                                               Quebra com relativa facilidade ao golpe do martelo.
+                                               Fragmentos com bordas cortantes que podem ser abatidas
+                                               por lâmina de aço.
+
+                                                           Sem indícios macroscópicos de alteração.
+                                                           Minerais apresentam brilho.
+                                  ROCHA SÃ
+                                                           Cor original da rocha pouco modificada.
+                         A1       OU PRATICA-
+                                  MENTE SÃ                 Quebra com dificuldade ao golpe do martelo.
+                                                           Fragmentos com bordas cortantes que resistem ao corte por
+                                                           lâmina de aço.
+
+BASALTO
+
+===== página 21 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.1 GRAU DE ALTERAÇÃO    SGS0405 – 2026 21
+
+          GRAU DE ALTERAÇÃO EM TESTEMUNHOS DE SONDAGEM
+
+                           A3                                                      A4
+
+                                                              A2
+
+                    PREENCHIMENTO                                                          A2
+                       TERROSO
+
+                                                      A1
+
+===== página 22 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.1 GRAU DE ALTERAÇÃO   SGS0405 – 2026 22
+
+  GRAU DE ALTERAÇÃO (COERÊNCIA) x RESISTÊNCIA DO MACIÇO ROCHOSO
+               RCU de 1 basalto c/ diferentes graus de alteração
+
+                                                                                    1 a 4MPa
+
+                                                                                                 40MPa
+
+                                                                                                 100MPa
+
+===== página 23 =====
+SGS0405 – 2026 23
+
+2.2– RECUPERAÇÃO (%)
+
+===== página 24 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.2 RECUPERAÇÃO   SGS0405 – 2026 24
+
+         PARÂMETRO APLICÁVEL APENAS EM AMOSTRAS DE ROCHA OBTIDAS
+                         POR SONDAGEM ROTATIVA
+
+  RECUPERAÇÃO R (%)
+  R(%) = TESTEMUNHOS (cm)/MANOBRA(cm)x100
+
+ RQD - ROCK QUALITY DESIGNATION (%)
+ RQD(%) = TESTEMUNHOS>10cm/MANOBRA (cm)x100
+
+===== página 25 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.2 RECUPERAÇÃO   SGS0405 – 2026 25
+
+    EXEMPLO DE CÁLCULO DE RECUPERAÇÃO E RQD
+                                    RQD
+
+                                             1,5 m
+
+===== página 26 =====
+SGS0405 – 2026 26
+
+2.3 – GRAU DE FRATURAMENTO
+
+===== página 27 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.3 GRAU DE FRATURAMENTO   SGS0405 – 2026 27
+
+     GRAU DE FRATURAMENTO
+     DESCONTINUIDADES ISOLANDO BLOCOS MENORES
+     NO MACIÇO ROCHOSO
+
+ ESTABILIDADE DE 1 TÚNEL VERSUS O ESPAÇAMENTO DE FRATURAS
+
+        Blocos maiores do que                                Blocos menores do que
+              a abertura                                           a abertura
+
+===== página 28 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.3 GRAU DE FRATURAMENTO   SGS0405 – 2026 28
+
+      GRAU DE FRATURAMENTO
+      FATOR FUNDAMENTAL NO COMPORTAMENTO DOS
+      MACIÇOS ROCHOSOS (PERMEABILIDADE,
+      DEFORMABILIDADE, RESISTÊNCIA).
+
+===== página 29 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.3 GRAU DE FRATURAMENTO   SGS0405 – 2026 29
+
+          GRAU DE FRATURAMENTO - SONDAGENS
+                                                                                                 F3
+
+                                                F2
+                                                                                                           F1
+
+                                                                      F4
+        F2                                          F2                                                     F3
+
+    F3                                                          F2                                          F3
+    F3
+                              F4                                       F3
+    F5
+
+===== página 30 =====
+SGS0405 – 2026 30
+
+2.4 – ÍNDICES OBTIDOS POR ENSAIOS
+
+===== página 31 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.4 ÍNDICES OBTIDOS POR ENSAIOS SGS0405 – 2026 31
+
+         ENSAIOS
+
+             PARÂMETROS QUANTITATIVOS, MODELAGENS
+             NUMÉRICAS, PROJETOS.
+             AMOSTRA DO MACIÇO SUBMETIDA A DIFERENTES
+             SOLICITAÇÕES COM CONDIÇÕES DE CONTORNO
+             CONTROLADAS.
+             NORMATIZAÇÃO, REPRESENTATIVIDADE DAS
+             AMOSTRAS, CUSTO E PRAZOS.
+             ENSAIOS DE LABORATÓRIO; AMOSTRAS
+             COLETADAS EM AFLORAMENTOS E SONDAGENS.
+             ENSAIOS DE CAMPO: ENSAIOS EM SONDAGENS,
+             ESCAVAÇÕES.
+
+===== página 32 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.4 ÍNDICES OBTIDOS POR ENSAIOS SGS0405 – 2026 32
+
+        ENSAIOS
+   PROPRIEDADES
+ENSAIOS EM LABORATÓRIOMECÂNICAS:
+                       - RESISTÊNCIA À Compressão
+                                       COMPRESSÃO Simples
+
+===== página 33 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.4 ÍNDICES OBTIDOS POR ENSAIOS SGS0405 – 2026 33
+
+          ENSAIOS
+         ENSAIO DE COMPRESSÃO SIMPLES OU UNIAXIAL (LAB)
+
+                                                                               MTO BRANDA
+
+                                                                                                    RESISTENTE
+
+===== página 34 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.4 ÍNDICES OBTIDOS POR ENSAIOS SGS0405 – 2026 34
+
+         CARACTERIZAÇÃO GEOTÉCNICA DAS ROCHAS PARA USOS ESPECÍFICOS
+
+                                              COMPRESSÃO E
+                                              CISALHAMENTO
+
+                                              ESMAGAMENTO
+           LASTRO DE
+           FERROVIAS
+                                                    IMPACTO
+                                                                                        ABRASÃO LOS
+                                                                                          ANGELES
+                                                    ENSAIOS
+                                                                                         IMPACTO DE
+                                                                                           TRETON
+
+===== página 35 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.4 ÍNDICES OBTIDOS POR ENSAIOS SGS0405 – 2026 35
+
+                                ROCHAS: USOS EM OBRAS
+
+          “FRAGMENTOS”
+                                                                             BLOCOS
+
+                                   AGREGADOS
+
+             COM LIGANTE
+
+           •CONCRETOS
+           •PAVIMENTOS                                               EDIFICAÇÕES
+                                                                      BARRAGENS
+                SOLTOS                                             MUROS DE ARRIMO
+                                                                      PROTEÇÕES
+                •LASTROS                                            CALÇAMENTO
+                •FILTROS
+
+===== página 36 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.4 ÍNDICES OBTIDOS POR ENSAIOS SGS0405 – 2026 36
+
+         CARACTERIZAÇÃO GEOTÉCNICA DAS ROCHAS PARA USOS ESPECÍFICOS
+
+===== página 37 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.4 ÍNDICES OBTIDOS POR ENSAIOS SGS0405 – 2026 37
+
+         CARACTERIZAÇÃO GEOTÉCNICA DAS ROCHAS PARA USOS ESPECÍFICOS
+
+            ABRASÃO LOS ANGELES
+                           NBR 16974 (ABNT, 2022)
+                ENSAIO EM
+               LABORATÓRIO
+
+             Máquina Los Angeles para ensaio de abrasão e impacto. (A) seção
+               transversal do tambor e (B) seção longitudinal do conjunto
+
+===== página 38 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.4 ÍNDICES OBTIDOS POR ENSAIOS SGS0405 – 2026 38
+
+         CARACTERIZAÇÃO GEOTÉCNICA DAS ROCHAS PARA USOS ESPECÍFICOS
+
+            ABRASÃO LOS ANGELES
+                           NBR 16974 (ABNT, 2022)
+              ENSAIO EM
+             LABORATÓRIO
+
+                                                 DISTRIBUIÇÃO                            ESCOLHA DA
+           PENEIRAMENTO
+                                               GRANULOMÉTRICA                            GRADUAÇÃO
+
+           PENEIRAMENTO                   ENSAIO
+            # 12 = 1,68 mm                                         MASSAS              PENEIRAMENTO
+                                      15 min    30 min          GRANULOMETRIA          DA AMOSTRA Pi
+            PESAGEM Pf                                             ESFERAS                 (INICIAL)
+              (FINAL)                A,B,C,D     E,F,G
+
+                                    PERDAS POR ABRASÃO - Pi - Pf x 100
+                                                             Pi
+
+===== página 39 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.4 ÍNDICES OBTIDOS POR ENSAIOS SGS0405 – 2026 39
+
+      CARACTERIZAÇÃO GEOTÉCNICA DAS ROCHAS : ESCAVABILIDADE 1ª, 2ª E 3ª
+
+                 ENSAIO IN SITU
+
+       STANDARD
+   PENETRATION TEST -
+          SPT
+
+     SOLO/ROCHA
+                          RAM/RAD ROCHA SÃ
+      NspT ≥ 50
+    GOLPES/30CM            IMPENETRÁVEL À
+                           PERCUSSÃO COM
+                         LAVAGEM POR TEMPO
+                           (<10 CM/10 MIN)
+
+                                                          R1
+
+                            Fonte: (Vaz, 1996)
+
+===== página 40 =====
+INTEMPERISMO, CLASSIFICAÇÃO DAS ROCHAS POR PARÂMETROS GEOTÉCNICOS: 2.4 ÍNDICES OBTIDOS POR ENSAIOS SGS0405 – 2026 40
+
+ CARACTERIZAÇÃO GEOTÉCNICA DAS ROCHAS : GEOMETRIA (H/I) TALUDES DE CORTE
+     1- RESIDUAL MADURO (SUPERFICIAL, LATERÍTICO)
+     2- RESIDUAL JOVEM (DE ALTERAÇÃO, SAPROLÍTICO)
+     3- ROCHA ALTERADA MOLE (SAPROLITO)
+     4 – ROCHA ALTERADA DURA/ ROCHA SÃ
+                                                     I=50% OU 26,6o
+                                                         H=3 M
+                                    1
+                                                                  I=70% OU 35o
+                                                                     H=7 M
+                                                     2
+
+                                                                                       I=100% OU 45o
+                                                                         3                H=10 M
+
+                                                                                                         I=400% OU 76o
+                                                                                                            H=20M
+
+                                           POSSÍVEL PLANO                                    4
+                  POSIÇÃO DE 1
+                                             DE FRAQUEZA
+                  DAS FAMÍLIAS
+                                             CRIADO PELA
+ O QUE             DE FRATURAS
+                                              FAMÍLIA DE
+NÃO ESTÁ            NA ROCHA
+                                            FRATURAS QUE
+  BOM              DURA OU SÃ
+                                          MERGULHA PARA
+ NESTA            EM RELAÇÃO À
+                                          FORA DA FACE DO
+FIGURA?              FACE DO
+                                            TALUDE E COM
+                    TALUDE DE
+                                          MENOR ÂNGULO                                     DEERE; PANTON (1976)
+                      CORTE
+                                               QUE ELE
+
+===== página 41 =====
+SGS0405 – 2026 41

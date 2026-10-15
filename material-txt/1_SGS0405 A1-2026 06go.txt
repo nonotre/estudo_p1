@@ -1,0 +1,802 @@
+# Texto extraído de material/1_SGS0405 A1-2026 06go.pdf
+# Só o texto dos slides; figuras e fotos não aparecem aqui.
+
+===== página 1 =====
+1. APRESENTAÇÃO DA DISCIPLINA
+
+            COMO ESTUDAR?
+ 1. QUEBRAR PRÉ-CONCEITOS
+            “GEOLOGIA É DECOREBA”
+ 2. APROVEITAR AO MÁXIMO AS AULAS
+    TEÓRICAS E PRÁTICAS
+ 3. TENTAR RELACIONAR AS INFORMAÇÕES E
+    NÃO GRAVÁ-LAS INDIVIDUALMENTE
+ 4. MONTAR SÍNTESES/RESUMOS DAS AULAS –
+    DOSES HOMEOPÁTICAS – NÃO DEIXAR P/ LER
+    A MATÉRIA ANTES DA PROVA APENAS.
+ 5. RESUMOS: ORIENTATIVOS PARA ESTUDOS E
+    ABORDAGENS MAIS ABRANGENTES.
+SGS0405- 2026/2
+
+===== página 2 =====
+2. GEOLOGIA, GEOLOGIA DE ENGENHARIA E ENG. CIVIL
+
+                            GEOLOGIA
+       CIÊNCIAS/                                     APLICADA
+       PESQUISA
+
+  G. HISTÓRICA         G. FÍSICA                     ENGENHARIA
+
+                                        ECONÔMICA                  AMBIENTAL
+PALEONTOLOGIA           MINERALOGIA                   ENGENHARIA
+                        PETROGRAFIA                      CIVIL
+
+       ESTRATIGRAFIA
+                                         MINERAÇÃO               PROCURA
+                       SEDIMENTOLOGIA    PETRÓLEO               RELACIONAR
+                         ESTRUTURAL                             PROCESSOS
+                                                               GEOLÓGICOS
+                                                              COM O AMBIENTE
+                       GEOMORFOLOGIA
+
+SGS0405- 2026/2                         GEOLOGIA DE ENGENHARIA 2
+
+===== página 3 =====
+GEOLOGIA DE ENGENHARIA E
+                ENG. CIVIL
+
+                  GEOTECNIA
+
+ GEOLOGIA DE                    MECÂNICA
+ ENGENHARIA                    DAS ROCHAS
+
+                   MECÂNICA
+                   DOS SOLOS
+
+SGS0405- 2026/2                             3
+
+===== página 4 =====
+GEOTECNIA
+
+     1-OBRAS CIVIS
+                                      2-MEIO
+                                     AMBIENTE
+
+ ESTUDO       MATERIAIS DE
+ LOCAL        CONSTRUÇÃO
+                                     GEOTECNIA
+                                     AMBIENTAL
+
+SGS0405- 2026/2                                  4
+
+===== página 5 =====
+3. RECORDANDO: ESTRUTURA DA TERRA – DINÂMICA INTERNA
+
+     TERRA
+                                       DIVISÃO INTERNA
+
+                                  - COMPOSIÇÃO
+
+                                  - ESTADO X TEMPERATURA X PRESSÃO
+
+SGS0405- 2026/2
+
+===== página 6 =====
+ESTRUTURA DA TERRA
+  Diâmetro Médio: 12.742 km                       Div. Geoquímica     Crosta:
+                                                                    Cont./Ocean.
+                                                                    Ocean.: 5-12 km
+                                                                    Cont.: 35-50 km
+                                                                       Manto
+                                                                      externo
+                                                                      12-670 km
+
+                                                                        Manto
+                                                                       interno
+                                                                      670-2900 km
+
+                                                                        Núcleo
+                                                                        externo
+                                                                     2900-5155 km
+
+                                                                      Núcleo
+                                                                      interno
+                                                                     5155-6371 km
+ESTRUTURA DA TERRA – DINÂMICA INTERNA   SGS0405- 2026/2
+
+===== página 7 =====
+ESTRUTURA DA TERRA - COMPOSIÇÃO
+
+                                                             O, Si, Al, Ca,
+                                                               K, Fe, Na
+
+ELEMENTOS
+QUÍMICOS
+ASSOCIADOS
+MATERIAIS
+GEOLÓGICOS                                                     O, Mg, Si, Fe,
+                                                              Ca, Al, Na, Cr, Ni
+
+                                                          Fe, Ni, Co, O, Si, S
+
+ESTRUTURA DA TERRA – DINÂMICA INTERNA   SGS0405- 2026/2
+
+===== página 8 =====
+ESTRUTURA DA TERRA
+                                                     Litosfera – parte sólida
+                                                      composta pela crosta (O,C)
+                       Div. Geodinâmica
+                                                     e parte do manto.
+ Litosfera
+   0-100 km                                                  Astenosfera – rochas
+                                                             no estado plástico.
+
+ Astenosfera                                                        Núcleo Externo –
+  100-670 km                                                        Líquido. Interno:
+                                                                         Sólido.
+  Mesosfera
+
+ 670-2900 km
+                                                                     Temperatura
+                                                                     Aumenta
+ Núcleo
+ externo                                                           GRADIENTE
+2900-5155 km                                                     GEOTÉRMICO???
+
+         Núcleo                                No DE METROS EM PROFUNDIDADE
+         Interno                               PARA TEMPERATURA AUMENTAR 10oC.
+        5155-6371 km         SGS0405- 2026/2         ESTRUTURA DA TERRA – DINÂMICA INTERNA
+
+===== página 9 =====
+4. GEOLOGIA DE ENGENHARIA E AS OBRAS DE ENGENHARIA CIVIL
+VITÓRIA - ES
+
+                                     OBRAS DE ENGENHARIA
+                                     CIVIL
+
+- DIFERENTES TIPOS DE MATERIAIS
+ GEOLÓGICOS
+
+- MATERIAIS GEOLÓGICOS
+-COM DIFERENTES IDADES
+
+SGS0405- 2026/2                                             9
+
+===== página 10 =====
+SGS0405- 2026/2   10
+
+===== página 11 =====
+TERRA
+                                                                     PROFUNDIDADES??
+
+                                          Materiais antropogênicos
+                                                                             ???????
+                        MATERIAIS
+                        INCONSOLIDADOS     SOLOS/SEDIMENTOS
+                                           SAPROLITOS
+MATERIAIS                                                                  0 a 100M
+             REGOLITO
+GEOLÓGICOS
+                                          ROCHAS
+                                          ALTERADAS
+
+                                          ROCHAS ÍGNEAS
+                         ROCHAS           ROCHAS METAMÓRFICAS
+                                          ROCHAS SEDIMENTARES
+
+                             1M
+                                  10M
+                   OBRAS DE EC           25M
+                                               50M
+                                                      100M
+SGS0405- 2026/2                                              KM                   11
+
+===== página 12 =====
+CASTELO BRANCO
+
+REGOLITO
+
+SUBSTRATO ROCHOSO
+
+SGS0405- 2026/2     12
+
+===== página 13 =====
+CASTELO BRANCO
+       TRANSPORTADOS                RESIDUAIS     MATERIAIS
+                                                  GEOLÓGICOS
+
+                  SEDIMENTOS
+
+                SOLOS
+
+REGOLITO        SAPROLITOS
+
+                ROCHAS ALTERADAS
+
+                ROCHAS
+
+       Ígneas
+                Sedimentares
+                          Metamórficas
+ SGS0405- 2026/2                                                 13
+
+===== página 14 =====
+Partículas - Minerais   Vazios/Poros
+
+      PROPRIEDADES
+
+SGS0405- 2026/2                                             14
+
+===== página 15 =====
+Vazios/Poros
+                               Preenchidos por: água ou gases (ar)
+
+                         Condição Saturada - Se todos os vazios
+                         preenchidos por água
+
+ Partículas - Minerais
+                         Condição não saturada – parcialmente
+                         preenchidos por água
+                            Gases
+
+                           Condição seca – Preenchido por gases
+                           (Sem água)
+
+SGS0405- 2026/2                                                      15
+
+===== página 16 =====
+CASTELO BRANCO
+                                    MATERIAIS
+                                    GEOLÓGICOS
+
+                  SEDIMENTOS
+
+                SOLOS
+
+REGOLITO        SAPROLITOS
+
+                ROCHAS ALTERADAS
+                                         ZONA NÃO
+                ROCHAS                    SATURADA
+
+                                         ZONA
+                                         SATURADA
+       Ígneas
+                Sedimentares
+                          Metamórficas
+ SGS0405- 2026/2                                                      16
+
+===== página 17 =====
+Vazios/Poros – Quantidade e tamanhos diferentes
+                        (Vv)
+
+                      Partículas –Tamanhos e Minerais diferentes
+                               (Vs)
+
+          Vt            Peso específico das partículas = Ms/Vs
+
+                        Peso específico aparente seco = Ms/Vt
+
+                        Porosidade = Vv/Vt x100
+
+                        Umidade gravimétrica = Ma/Ms x 100
+
+                        Umidade volumétrica = Va/Vt x 100
+
+                        Grau de saturação = Va/Vv x 100
+
+SGS0405- 2026/2                                                     17
+
+===== página 18 =====
+TODOS OS MATERIAIS GEOLÓGICOS TEM SEU REGISTRO E DISTRIBUIÇÃO ESPACIAL EM MAPAS.
+
+     TODOS OS MATERIAIS GEOLÓGICOS            REPRESENTANDO:
+     ESTÃO REPRESENTADOS EM MAPAS             1 – TIPO
+     – COM DIFERENTES ESCALAS,                2 – ORIGEM E IDADES
+     CLASSIFICAÇÕES E DADOS                   3 - CARACTERISTICAS
+
+         TODAS OBRAS DE ENGENHARIA ESTÃO RELACIONADOS
+         COM OS MATERIAIS GEOLÓGICOS
+
+                TODAS OBRAS DE ENGENHARIA ESTÃO RELACIONADAS
+                COM MAPAS
+
+           ESCALA DO MAPA VS DETALHE DO DADO GEOLÓGICO
+
+           1: 500.000      1mm = ? m      1mm = 500 m
+           1: 50.000       1mm = ? m      1mm = 50 m
+                                                                    MATERIAIS TERRESTRES:
+                                                                    ROCHAS, SOLOS, TEMPO
+
+SGS0405- 2026/2                                                      GEOLÓGICO, MAPAS
+                                                                        GEOLÓGICOS
+
+===== página 19 =====
+1: 500.000
+
+SGS0405- 2026/2   19
+
+===== página 20 =====
+URBANAS
+  1 - Áreas residenciais        24 - Centros comerciais      11 - Turismo
+  2 - Vias de acesso            25 - Cemitérios              12 - Processos de
+  3 - Barragens/Aterros         26 - Usinas de               irrigação e
+  4 - Poços profundos           compostagem                  lançamento de
+  5 - Parques industriais       27 - Incineradores 28 -      resíduos líquidos
+  6 - Exploração de             Estações de tratamento de    13 - Zonas de
+  materiais para construção     água/esgotos                 recargas específicas
+  civil                         29 - Terminais de            14 - Áreas sujeitas a
+  7 - Zonas de inundação        petróleo                     processos naturais
+  8 - Áreas de recreação        30 - Termonucleares                 RURAIS
+  9 - Áreas sujeitas a          31 - Depósitos de            1 – Agro-industrias
+  processos naturais            produtos industriais         2 - Destilarias
+  10 - Fossas e tanques         32 - Depósitos               3 - Usina de açucar
+  sépticos                      subterrâneos                 4 - Criadores
+  11 - Loteamentos              (reservatórios)              5 - Fabricas e          USOS MAIS FREQUENTES
+  12 - Reservatórios                   REGIONAIS             depósitos de
+  superficiais(água,potável,l   1 - Rodovias                 fertilizantes
+  azer,controle)                2 - Ferrovias                6 - Abatedores
+  13 - Obras enterradas         3 - Linhas de transmissão    7 - Pecuária
+  (Fundações,tubulações)        4 - Dutos                    8 - Agricultura
+  14 - Canalizações             5 - Barragens(rejeitos,      9-
+  15 - Estações de energia      mineração,                   Hortifrutigranjeiros
+  16 - Termo-elétricas          hidroelétricas,irrigação,    10 - Projetos de
+  17 - Túneis                   piscicultura,água            irrigação
+  18 - Ocupações com            potável,controle de          11 – Agrovilas
+  equipamentos sensíveis        inundação)                   12 - Áreas sujeitas a
+  19 - Hortifrutigranjeiros     6 - Pólos industriais        processos naturais
+  20 - Aeroportos               7 - Mineração
+  21 - Portos/Piers/Marinas     8 - Canalizações
+  22 - Aterros Sanitários       9 - Locais para disposição
+  23 - Postos de                de resíduos
+  combustíveis                  10 - Depósitos
+SGS0405- 2026/2                 subterrâneos
+                                                                                                            20
+
+===== página 21 =====
+ÁREAS URBANIZADAS
+
+REUNE DIFERENTES TIPOS DE USOS E A GRANDE MAIORIA DEMANDA:
+
+                  - ESCAVAÇÃO
+                                - CANALIZAÇÃO
+              - AGREGADOS
+                                - ESTIMATIVAS DE RISCOS
+                  - FUNDAÇÃO
+
+SGS0405- 2026/2                                           21
+
+===== página 22 =====
+ANGRA DOS REIS - 2011
+
+SGS0405- 2026/2                           22
+
+===== página 23 =====
+Escorregamentos em Ilha Grande (Angra dos Reis) - Jan. 2010
+
+SGS0405- 2026/2                                                   23
+
+===== página 24 =====
+POÇOS DE CALDAS
+
+SGS0405- 2026/2        24
+
+===== página 25 =====
+EDIFICAÇÃO
+
+SGS0405- 2026/2    25
+
+===== página 26 =====
+SANTOS
+
+SGS0405- 2026/2   26
+
+===== página 27 =====
+CURITIBA - PR
+
+SGS0405- 2026/2   27
+
+===== página 28 =====
+LIMEIRA
+
+SGS0405- 2026/2       28
+
+===== página 29 =====
+SGS0405- 2026/2   29
+
+===== página 30 =====
+SGS0405- 2026/2   30
+
+===== página 31 =====
+CURITIBA
+
+SGS0405- 2026/2   31
+
+===== página 32 =====
+SÃO PEDRO
+
+SGS0405- 2026/2   32
+
+===== página 33 =====
+Inventário das áreas degradadas por micro-bacia
+        Microbacia do Córrego Tijuco Preto
+
+SGS0405- 2026/2                                             33
+
+===== página 34 =====
+SÃO PAULO
+
+SGS0405- 2026/2               34
+
+===== página 35 =====
+BARRAGENS
+
+     Os principais tipos de barragens normalmente utilizados são:
+      Barragem de terra homogênea;
+      Barragem de terra zoneada;
+      Barragem de enrocamento;
+      Barragem de concreto (em arco);
+      Barragem de concreto (gravidade);
+      Barragem de concreto (gravidade aliviada);
+      Barragem de concreto compactado a rolo (CCR);
+      Barragem de gabiões; e
+      Barragem subterrânea.
+
+       - MATERIAIS PARA CONSTRUÇÃO
+                                         - ESCAVAÇÃO
+       - FUNDAÇÃO
+                                         - FLUXO DE ÁGUA
+SGS0405- 2026/2                                                     35
+
+===== página 36 =====
+ITAIPÚ - PR
+
+SGS0405- 2026/2                 36
+
+===== página 37 =====
+USINA HIDRELÉTRICA DE ITAIPU
+ Barragem de ligação esquerda e direita                                 1 Barragem de terra ME
+ blocos de contrafortes                3
+                                                                        2 Barragem de enrocamento
+                                                                                          Level of reservoir El. 220 m
+ Estrutura de desvio – gravidade maciça            4
+
+                                               3
+                                   5      4
+                            3       6                                 2
+
+                           7
+
+                                        5 Barragem principal – gravidade aliviada
+                                              Left earth-fill dam                               1
+                               8              Rockfill dam
+                                          Casa de força e área de montagem 6
+                                              Left wing dam
+                     9                        Diversion structure
+                                          Barragem    lateral direita – blocos de
+                                              Main dam
+  10
+                                          contrafortes
+                                             Power house                       7
+                                             Right wing dam
+                                          Vertedouro
+                                              Spillway         8
+                                              Right earth-fill dam
+                                          Barragem
+                                                     de terra
+                                               Hernandarias               9
+                                                                   MD (dike)
+                                                               earth-fill
+
+SGS0405-
+    Itaipu 2026/2
+             Investigação e ensaios      Geologia local   Propriedades da rocha   Propriedades das descontinuidades      37
+
+===== página 38 =====
+SGS0405- 2026/2   38
+
+===== página 39 =====
+UHE Funil
+
+SGS0405- 2026/2   39
+
+===== página 40 =====
+SGS0405- 2026/2   40
+
+===== página 41 =====
+SGS0405- 2026/2   41
+
+===== página 42 =====
+SGS0405- 2026/2   42
+
+===== página 43 =====
+SGS0405- 2026/2   43
+
+===== página 44 =====
+SGS0405- 2026/2   44
+
+===== página 45 =====
+SGS0405- 2026/2   45
+
+===== página 46 =====
+SGS0405- 2026/2   46
+
+===== página 47 =====
+SGS0405- 2026/2   47
+
+===== página 48 =====
+RIO CUARTO - ARGENTINA
+
+SGS0405- 2026/2            48
+
+===== página 49 =====
+CANALIZAÇÕES
+
+          - ESCAVAÇÃO
+
+          - ESTABILIDADE DE TALUDES
+
+          - ESTRUTURAS DE CONTENÇÃO
+
+SGS0405- 2026/2                        49
+
+===== página 50 =====
+POÇOS DE CALDAS
+
+SGS0405- 2026/2      50
+
+===== página 51 =====
+TRANSPOSIÇÃO DO RIO SÃO FRANCISCO
+
+SGS0405- 2026/2                                       51
+
+===== página 52 =====
+CANALIZAÇÃO
+                    CANAL DE CORINTO - GRÉCIA
+
+SGS0405- 2026/2                                 52
+
+===== página 53 =====
+SGS0405- 2026/2   53
+
+===== página 54 =====
+SGS0405- 2026/2   54
+
+===== página 55 =====
+SGS0405- 2026/2   55
+
+===== página 56 =====
+PONTES/VIADUTOS
+
+          - FUNDAÇÃO   - AGREGADOS
+
+          - ATERROS    - ESTIMATIVAS DE EVENTOS NATURAIS
+
+SGS0405- 2026/2                                            56
+
+===== página 57 =====
+PONTE ACRE
+
+SGS0405- 2026/2           57
+
+===== página 58 =====
+SGS0405- 2026/2   58
+
+===== página 59 =====
+SGS0405- 2026/2   59
+
+===== página 60 =====
+PONTE RIO SOLIMÕES – MANAUS (AM)
+
+SGS0405- 2026/2                                 60
+
+===== página 61 =====
+SGS0405- 2026/2   61
+
+===== página 62 =====
+SGS0405- 2026/2   62
+
+===== página 63 =====
+SGS0405- 2026/2   63
+
+===== página 64 =====
+TÚNEIS
+
+ - DIFERENTES FINALIDADES   - DIFERENTES MATERIAIS GEOLÓGICOS
+
+  - ESTRUTURAS DE SUPORTE - DRENAGEM
+
+  - ESTRUTURAS DE CONTENÇÃO
+
+SGS0405- 2026/2                                             64
+
+===== página 65 =====
+TÚNEIS
+
+SGS0405- 2026/2   65
+
+===== página 66 =====
+METRO – SÃO PAULO
+
+SGS0405- 2026/2       66
+
+===== página 67 =====
+SGS0405- 2026/2   67
+
+===== página 68 =====
+RODOANEL (Trecho Norte – Corte 303 Sul)
+
+SGS0405- 2026/2                                  68
+
+===== página 69 =====
+SGS0405- 2026/2   69
+
+===== página 70 =====
+OBRAS VIÁRIAS
+
+ - FERROVIAS                  - RODOVIAS
+
+ - AGREGADOS                  - ESCAVAÇÃO
+
+ - ESTABILIDADE DE TALUDES    - ESTRUTURAS DE CONTENÇÃO
+
+SGS0405- 2026/2                                           70
+
+===== página 71 =====
+VALE DO PARAIBA - TAUBATÉ
+
+SGS0405- 2026/2                               71
+
+===== página 72 =====
+RODOVIA DOM PEDRO COM A CARVALHO PINTO
+
+SGS0405- 2026/2                                            72
+
+===== página 73 =====
+DRENAGEM      ANTONINA - PR
+
+SGS0405- 2026/2                   73
+
+===== página 74 =====
+ESTRADA BAURU - ASSIS
+
+SGS0405- 2026/2                           74
+
+===== página 75 =====
+RODOVIA CARVALHO PINTO
+
+SGS0405- 2026/2                            75
+
+===== página 76 =====
+ANEL VIÁRIO - SP
+
+SGS0405- 2026/2                      76
+
+===== página 77 =====
+RODOVIA - RS
+
+SGS0405- 2026/2   77
+
+===== página 78 =====
+SGS0405- 2026/2   78
+
+===== página 79 =====
+CABRALIA PAULISTA PROXIMO A BAURU
+
+SGS0405- 2026/2                     79
+
+===== página 80 =====
+RODOVIA DUTRA
+
+SGS0405- 2026/2   80
+
+===== página 81 =====
+Com 30 metros de altura, a cortina atirantada entre o Túnel
+    Problema??????   2 e o Viaduto 2 do novo trecho de serra da Rodovia dos
+                     Tamoios é a maior cortina atirantada do Brasil. Possui 1.400
+                     tirantes de até 34 metros de comprimento, tracionados
+SGS0405- 2026/2      com até 120 tf.                                              81
+
+===== página 82 =====
+TANQUES E DUTOS ENTERRADOS
+
+      - ESCAVAÇÃO          - FUNDAÇÃO
+
+      - CORROSÃO            - VAZAMENTO/CONTAMINAÇÃO
+
+SGS0405- 2026/2                                        82
+
+===== página 83 =====
+TANQUES DE COMBUSTIVEIS – DEMANDAS???
+
+                                            LITORAL - CARAQUATATUBA
+
+SGS0405- 2026/2                                                       83
+
+===== página 84 =====
+SGS0405- 2026/2   DUTO – PAULINIA - BRASILIA   84
+
+===== página 85 =====
+ATERRO SANITÁRIO
+
+    - DIFERENTES TIPOS          - MATERIAIS DE CONSTRUÇÃO
+
+     - FILTROS                   - FUNDAÇÃO
+
+    - DRENAGEM                   - BARREIRAS/LINERS
+
+     - LAGOAS DE TRATAMENTO
+
+SGS0405- 2026/2                                             85
+
+===== página 86 =====
+ATERRO SANITÁRIO – ITAJAI - SC
+
+SGS0405- 2026/2                              86
+
+===== página 87 =====
+ÁREAS COSTEIRAS
+
+            - OBRAS COSTEIRAS       - PORTOS
+
+SGS0405- 2026/2                                87
+
+===== página 88 =====
+MATINHOS - Pr
+
+SGS0405- 2026/2         88
+
+===== página 89 =====
+PORTO DE GALINHAS - PE
+
+SGS0405- 2026/2               89
+
+===== página 90 =====
+DIQUES FORTALEZA
+
+SGS0405- 2026/2        90
+
+===== página 91 =====
+DETALHE DA ANTERIOR
+
+SGS0405- 2026/2         91
+
+===== página 92 =====
+SGS0405- 2026/2   92
+
+===== página 93 =====
+PORTO CHANCAY - PERU
+
+SGS0405- 2026/2         93
+
+===== página 94 =====
+PORTOS      PORTO DE PECEM - CEARÁ
+
+SGS0405- 2026/2                            94
+
+===== página 95 =====
+PORTUGAL
+
+SGS0405- 2026/2      95
+
+===== página 96 =====
+PORTUGAL
+
+SGS0405- 2026/2   96
+
+===== página 97 =====
+CAVERNAS
+
+          - AFUNDAMENTOS              - FUNDAÇÕES
+
+SGS0405- 2026/2                                     97
+
+===== página 98 =====
+Winter Park, Florida
+
+SGS0405- 2026/2                          98
+
+===== página 99 =====
+CURITIBA - PR
+
+SGS0405- 2026/2                   99

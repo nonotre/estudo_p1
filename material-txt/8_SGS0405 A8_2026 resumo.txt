@@ -1,0 +1,445 @@
+# Texto extraído de material/8_SGS0405 A8_2026 resumo.pdf
+# Só o texto dos slides; figuras e fotos não aparecem aqui.
+
+===== página 1 =====
+SGS0405 – 2026 1
+
+ESTRUTURAS GEOLÓGICAS - DESCONTINUIDADES
+
+Introdução
+1. Atectônicas
+2. Tectônicas
+2.1 Regime Rúptil
+   Juntas (Diáclases); Falhas (Fraturas)
+2.2 Regime Dúctil
+   Arqueamentos; Dobras.
+
+Leitura complementar:
+Livro GE, Cap. 3
+Decifrando a Terra, Cap. 19
+
+===== página 2 =====
+SGS0405 – 2026 2
+ESTRUTURAS GEOLÓGICAS: INTRODUÇÃO
+
+    ROCHAS: CLASSIFICAÇÃO GENÉTICA (GEOLÓGICA) VERSUS GEOTÉCNICA – ENG. CIVIL
+
+                                                           ROCHAS ÍGNEAS
+                            OBRA CIVIL                                      ROCHAS DURAS
+                                                           METAMÓRFICAS
+        ROCHAS
+                                           CLASSIFICAÇÃO
+     CLASSIFICAÇÃO
+                                            GEOTÉCNICA
+       GENÉTICA
+                         COMPORTAMENTO                        ROCHAS
+                                                                           ROCHAS BRANDAS
+                           MECÂNICO E                      SEDIMENTARES
+                           HIDRÁULICO
+                          ALTERABILIDADE
+
+                                           GRAU DE ALTERAÇÃO
+
+===== página 3 =====
+SGS0405 – 2026 3
+ESTRUTURAS GEOLÓGICAS: INTRODUÇÃO
+
+      DESCONTINUIDADES NO MACIÇO ROCHOSO
+      FATOR FUNDAMENTAL NO COMPORTAMENTO DOS
+      MACIÇOS ROCHOSOS (PERMEABILIDADE,
+      DEFORMABILIDADE, RESISTÊNCIA).
+
+===== página 4 =====
+SGS0405 – 2026 4
+
+Talude de corte em maciço gnáissico com rupturas do tipo Toppling. Rodovia dos Tamoios, Km 53 Sul (2018).
+
+===== página 5 =====
+SGS0405 – 2026 5
+
+Escavação de tuneis (sistema NATM) nas obras de duplicação da Rodovia Tamoios, Km 65 (2018)
+
+===== página 6 =====
+SGS0405 – 2026 6
+
+===== página 7 =====
+SGS0405 – 2026 7
+ESTRUTURAS GEOLÓGICAS: INTRODUÇÃO
+
+      DESCONTINUIDADES NO MACIÇO ROCHOSO
+      GRAU DE FRATURAMENTO
+      FATOR FUNDAMENTAL NO COMPORTAMENTO DOS
+      MACIÇOS ROCHOSOS (PERMEABILIDADE,
+      DEFORMABILIDADE, RESISTÊNCIA).
+
+===== página 8 =====
+SGS0405 – 2026 8
+ESTRUTURAS GEOLÓGICAS: INTRODUÇÃO
+
+     DESCONTINUIDADES (SUPERFÍCIES PLANAS
+     OU CURVAS) PRESENTES NAS ROCHAS (CORPO
+     RÍGIDO);
+
+         ESCALA DE ANÁLISE VERSUS DESCONTINUIDADES
+
+        Calcário Laminado            CALCÁRIO
+
+===== página 9 =====
+SGS0405 – 2026 9
+ESTRUTURAS GEOLÓGICAS: INTRODUÇÃO
+
+         ESCALA DE ANÁLISE VERSUS DESCONTINUIDADES
+
+===== página 10 =====
+SGS0405 – 2026 10
+ESTRUTURAS GEOLÓGICAS: INTRODUÇÃO
+
+                                                       INDICADORES DE ESTRUTURAS GEOLÓGICAS
+
+ GEOLOGIA ESTRUTURAL:                                                            SUPERFICIAIS
+CAMPO DE ESPECIALIZAÇÃO                                       ATECTÔNICAS          FORÇA
+DA GEOLOGIA QUE ESTUDA              DESCONTINUIDADES                            GRAVITACIONAL
+    A DISTRIBUIÇÃO, A                  NO MACIÇO
+     ORIENTAÇÃO E A                     ROCHOSO                                   PROFUNDAS
+   PERSISTÊNCIA DAS                                           TECTÔNICAS         TECTÔNICA DE
+ESTRUTURAS GEOLÓGICAS.                                                              PLACAS
+
+===== página 11 =====
+SGS0405 – 2026 11
+
+1 – ESTRUTURAS GEOLÓGICAS ATECTÔNICAS
+
+===== página 12 =====
+SGS0405 – 2026 12
+ESTRUTURAS GEOLÓGICAS: 1- ATECTÔNICAS
+
+     1 ESTRUTURAS ATECTÔNICAS:
+
+           • Baixas profundidades;
+           • Movimentos devido a força g;
+           • Sem atuação das forças internas
+             da Terra (Tectônicas);
+           • Afetam áreas restritas.
+           DOBRAS/FALHAS EM SEDIMENTOS
+           JUNTAS DE ALÍVIO
+
+===== página 13 =====
+SGS0405 – 2026 13
+ESTRUTURAS GEOLÓGICAS: 1- ATECTÔNICAS
+
+   DOBRAS ATECTÔNICAS EM SEDIMENTOS
+
+                                                   13
+
+===== página 14 =====
+ESTRUTURAS GEOLÓGICAS: 1- ATECTÔNICAS                      SGS0405 – 2026 14
+
+     1 ESTRUTURAS ATECTÔNICAS:
+                                        JUNTAS DE ALÍVIO
+
+===== página 15 =====
+SGS0405 – 2026 15
+ESTRUTURAS GEOLÓGICAS: 1- ATECTÔNICAS
+
+       1 ESTRUTURAS ATECTÔNICAS:
+
+                                        JUNTAS DE ALÍVIO
+
+===== página 16 =====
+SGS0405 – 2026 16
+
+2 – ESTRUTURAS GEOLÓGICAS TECTÔNICAS
+
+===== página 17 =====
+ESTRUTURAS GEOLÓGICAS: 2 - TECTÔNICAS   SGS0405 – 2026 17
+
+      2 ESTRUTURAS TECTÔNICAS:
+      RESULTAM DOS ESFORÇOS (TENSÕES,
+      PRESSÕES) GERADOS NOS MOVIMENTOS DAS
+      PLACAS LITOSFÉRICAS;
+
+===== página 18 =====
+ESTRUTURAS GEOLÓGICAS: 2 - TECTÔNICAS       SGS0405 – 2026 18
+
+      2 ESTRUTURAS TECTÔNICAS
+      DEFORMAÇÃO DAS ROCHAS
+      ROCHA (CORPO RÍGIDO) SUBMETIDA A
+      ESFORÇOS PODE:
+              • MUDAR DE POSIÇÃO
+              • ROTACIONAR
+              • DEFORMAR
+                 DILATAÇÃO (VOLUME)
+                 DISTORÇÃO (FORMA)
+
+      REOLOGIA: ESTUDO DA DEFORMAÇÃO DOS MATERIAIS
+      MECÂNICA DAS ROCHAS
+
+===== página 19 =====
+ESTRUTURAS GEOLÓGICAS: 2 - TECTÔNICAS   SGS0405 – 2026 19
+
+     2 ESTRUTURAS TECTÔNICAS
+     DEFORMAÇÃO DAS ROCHAS
+
+    A DEFORMAÇÃO DAS ROCHAS DEPENDE:
+    • TIPO DE ROCHA
+    • INTENSIDADE E DURAÇÃO DO ESFORÇO
+    • PROFUNDIDADE
+      • REDUZIDA: QUEBRAS E
+        DESCONTINUIDADES (REGIME RÚPTIL)
+      • ELEVADA: DEFORMAÇÃO SEM PERDA DE
+        CONTINUIDADE (REGIME PLÁSTICO)
+
+===== página 20 =====
+ESTRUTURAS GEOLÓGICAS: 2 - TECTÔNICAS                          SGS0405 – 2026 20
+
+   2 ESTRUTURAS TECTÔNICAS DEFORMAÇÃO DAS ROCHAS
+
+                                                  DOMÍNIOS DE
+                                                 DEFORMAÇÃO EM
+                                                 FUNÇÃO DE P E T
+
+                           DÚCTIL
+                                             Gradiente Geotérmico   ↑
+
+                                        TODAS AS ESTRUTURAS
+                                        PODEM SER ASSOCIADAS A
+                                        PLANOS E LINHAS (EIXOS):
+                                        DIREÇÃO DA ESTRUTURA
+                                        MERGULHO REAL
+          Grad. Geotérmico↓             MERGULHO APARENTE
+                                                                          20
+
+===== página 21 =====
+SGS0405 – 2026 21
+
+2.1 – ESTRUTURAS GEOLÓGICAS TECTÔNICAS
+             REGIME RÚPTIL
+
+===== página 22 =====
+ESTRUTURAS GEOLÓGICAS: 2.1 – TECTÔNICAS – REGIME RÚPTIL   SGS0405 – 2026 22
+
+       JUNTAS/DIÁCLASES (REGIME RÚPTIL)
+       DESCONTINUIDADES SISTEMÁTICAS
+       SEGUNDO DETERMINADAS ORIENTAÇÕES
+       (FAMÍLIAS)- AUSÊNCIA DE DESLOCAMENTO;
+       É COMUM ESTAS FAMÍLIAS DE
+       DESCONTINUIDADES SE INTERCRUZAREM E
+       FORMAREM BLOCOS;
+       RESULTADO DE ESFORÇOS DE COMPRESSÃO,
+       CISALHAMENTO, DISTENSÃO (TRAÇÃO) E
+       TORÇÃO;
+       SERVEM PARA A DEFINIÇÃO DO GRAU DE
+       SEGMENTAÇÃO DO MACIÇO ROCHOSO
+       (PROPRIEDADES, DISTRIBUIÇÃO ESPACIAL,
+       ESPAÇAMENTO, ESCALA).
+
+===== página 23 =====
+ESTRUTURAS GEOLÓGICAS: 2.1– TECTÔNICAS – REGIME RÚPTIL        SGS0405 – 2026 23
+
+  JUNTAS/DIÁCLASES (REGIME RÚPTIL)
+
+     COMBINAÇÃO DE PLANOS DE FOLIAÇÃO E DE
+                  DIÁCLASES
+
+                                JUNTAS/DIÁCLASES NO MÁRMORE
+
+===== página 24 =====
+ESTRUTURAS GEOLÓGICAS: 2.1 – TECTÔNICAS – REGIME RÚPTIL   SGS0405 – 2026 24
+
+     FALHAS (REGIME RÚPTIL)
+     SUPERFÍCIES DESCONTÍNUAS SEPARANDO BLOCOS COM
+     DESLOCAMENTO DIFERENCIAL. O DESLOCAMENTO PODE
+     SER DE ALGUNS CMS A VÁRIOS KMS;
+     CARACTERIZADA PELO MOVIMENTO AO LONGO DO
+     PLANO DE FALHA;
+     QUANDO OS DESLOCAMENTOS SÃO DE PEQUENA
+     MAGNITUDE E PERPENDICULARES À SUPERFÍCIE RECEBE
+     A DENOMINAÇÃO DE FRATURA;
+     ESFORÇOS COMPRESSIVOS, DISTENSIVOS E
+     CISALHANTES;
+     COMUNS NAS CADEIAS MONTANHOSAS ANTIGAS E
+     RECENTES. RASAS A PROFUNDAS (LIMITES ENTRE
+     PLACAS TECTÔNICAS).
+
+===== página 25 =====
+ESTRUTURAS GEOLÓGICAS: 2.1 – TECTÔNICAS – REGIME RÚPTIL                                      SGS0405 – 2026 25
+
+                      FALHAS (REGIME RÚPTIL)
+
+  FALHA DE SAN ANDREAS (CALIFÓRNIA, EUA)
+                                           Vale do Rio Paraíba do Sul (RJ) -Falha de Além-Paraíba
+
+                                                                         TRAÇO DA FALHA SAN
+                                                                         ANDREAS
+
+===== página 26 =====
+ESTRUTURAS GEOLÓGICAS: 2.1 – TECTÔNICAS – REGIME RÚPTIL              SGS0405 – 2026 26
+
+ 2.1 Regime Rúptil – Falhas                               SLICKENSIDE
+ ELEMENTOS GEOMÉTRICOS                                    ESPELHO DE FALHA
+                                                          “ESTRIAS”
+
+===== página 27 =====
+ESTRUTURAS GEOLÓGICAS: 2.1 – TECTÔNICAS – REGIME RÚPTIL              SGS0405 – 2026 27
+
+    2.1 Regime Rúptil – Falhas                            SLICKENSIDE
+                                                          ESPELHO DE FALHA
+                                                          “ESTRIAS”
+
+===== página 28 =====
+ESTRUTURAS GEOLÓGICAS: 2.1 – TECTÔNICAS – REGIME RÚPTIL                  SGS0405 – 2026 28
+
+2.1 Regime Rúptil – Falhas – Classificação com base no
+movimento relativo dos blocos adjacentes
+     NORMAL: TETO ABATE             INVERSA: TETO SOBE
+
+                                                                 TETO
+                            TETO
+
+     TRANSCORRENTE: TETO                                  OBLÍQUA:   TETO DESLOCA
+     DESLOCA LATERALMENTE                                             OBLÍQUAMENTE
+
+===== página 29 =====
+ESTRUTURAS GEOLÓGICAS: 2.1 – TECTÔNICAS – REGIME RÚPTIL   SGS0405 – 2026 29
+
+3.1 Regime Rúptil – Falhas – Movimento relativo dos blocos
+adjacentes => CONFORMAÇÃO DO RELEVO
+
+===== página 30 =====
+ESTRUTURAS GEOLÓGICAS: 2.1 – TECTÔNICAS – REGIME RÚPTIL   SGS0405 – 2026 30
+
+   SERRA DO MAR – ESCARPA DE FALHAMENTOS NORMAIS
+
+===== página 31 =====
+SGS0405 – 2026 31
+
+2.2 – ESTRUTURAS GEOLÓGICAS TECTÔNICAS
+             REGIME DÚCTIL
+
+===== página 32 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL   SGS0405 – 2026 32
+
+       2.2 Estruturas Tectônicas - Regime Dúctil
+       ARQUEAMENTOS/DOBRAMENTOS
+       ONDULAÇÕES IMPOSTAS EM ESTRUTURAS PLANARES
+       PRÉ-EXISTENTES (ESTRATIFICAÇÃO SEDIMENTAR,
+       XISTOSIDADE, ETC) EM MÉDIAS E GRANDES
+       PROFUNDIDADES (Regime Dúctil);
+       AS ONDULAÇÕES PODEM SER DECOMPOSTAS EM
+       ELEMENTOS UNITÁRIOS EM FUNÇÃO DA AMPLITUDE E
+       COMPRIMENTO DE ONDA;
+
+===== página 33 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL   SGS0405 – 2026 33
+
+       2.2 Estruturas Tectônicas - Regime Dúctil
+
+       ESCALAS DE ANÁLISE DE DOBRAMENTOS:
+
+      MICROSCÓPICA : LUPA E MICROSCÓPIO;
+      MESOCÓPICA: AMOSTRAS DE MÃO E
+      AFLORAMENTOS;
+      MACROSCÓPICA: INTEGRAÇÃO E RECONSTRUÇÃO
+      DE VÁRIOS AFLORAMENTOS, PERFIS E MAPAS
+      GEOLÓGICOS
+
+===== página 34 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL   SGS0405 – 2026 34
+
+       2.2 Estruturas Tectônicas - Regime Dúctil
+
+       ESCALAS DE ANÁLISE DE DOBRAMENTOS:
+
+===== página 35 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL                     SGS0405 – 2026 35
+
+       2.2 Estruturas Tectônicas - Regime Dúctil
+       ELEMENTOS GEOMÉTRICOS DE UMA DOBRA:
+
+        PLANO AXIAL
+                                                          LINHA DE CHARNEIRA OU EIXO
+
+                                                              LINHA DE INFLEXÃO
+
+                                                                  FLANCOS DA DOBRA
+
+                                                                           PLANO DE
+                                                                            PERFIL
+
+                                                                                       35
+
+===== página 36 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL   SGS0405 – 2026 36
+
+       2.2 Estruturas Tectônicas - Regime Dúctil
+     VISUALIZAÇÃO DA DOBRA E DIREÇÃO DA SEÇÃO:
+
+===== página 37 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL   SGS0405 – 2026 37
+
+        2.2 Estruturas Tectônicas - Regime Dúctil
+   VISUALIZAÇÃO DA DOBRA E DIREÇÃO DA SEÇÃO:
+
+===== página 38 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL                SGS0405 – 2026 38
+
+        2.2 Estruturas Tectônicas - Regime Dúctil
+        CLASSIFICANDO AS DOBRAS
+
+                   SEM CONHECIMENTO DA IDADE DAS
+                      CAMADAS (ESTRATIGRAFIA)
+
+                                                              SINFORME
+
+                  ANTIFORME
+           CONCAVIDADE P/ BAIXO                           CONCAVIDADE P/ CIMA
+
+===== página 39 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL                        SGS0405 – 2026 39
+
+        2.2 Estruturas Tectônicas - Regime Dúctil
+        CLASSIFICANDO AS DOBRAS
+
+                                       CAMADA A (MAIS NOVA)
+                                      CAMADA B (MAIS ANTIGA)
+
+                    SINCLINAL                                    ANTICLINAL
+                                                          CAMADAS + ANTIGAS NO NÚCLEO
+        CAMADAS + NOVAS NO NÚCLEO
+
+===== página 40 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL          SGS0405 – 2026 40
+
+        2.2 Estruturas Tectônicas - Regime Dúctil
+        CLASSIFICANDO AS DOBRAS
+
+                                            EIXO
+
+                                                          EIXO
+
+        EIXO
+
+===== página 41 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL            SGS0405 – 2026 41
+
+        2.2 Estruturas Tectônicas - Regime Dúctil
+        CLASSIFICANDO AS DOBRAS
+
+                                                          PLANO AXIAL
+
+===== página 42 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL   SGS0405 – 2026 42
+
+        2.2 Estruturas Tectônicas - Regime Dúctil
+        CLASSIFICANDO AS DOBRAS
+
+      COM BASE NO ÂNGULO INTER-FLANCOS
+
+                                                          
+
+===== página 43 =====
+ESTRUTURAS GEOLÓGICAS: 2.2 – TECTÔNICAS – REGIME DÚCTIL   SGS0405 – 2026 43
+
+        2.2 Estruturas Tectônicas - Regime Dúctil
+        CLASSIFICANDO AS DOBRAS
+        COM BASE NO ÂNGULO INTER-FLANCOS
