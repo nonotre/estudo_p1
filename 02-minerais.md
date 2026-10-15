@@ -44,8 +44,9 @@ Filossilicatos em folhas → **clivagem em placas**, baixo atrito, planos de fra
 Na superfície (água, ar, temperatura baixa), os minerais que se formaram em **alta temperatura** são os **menos estáveis** e alteram primeiro. Ordem de alteração (série de Goldich):
 
 ```
-ALTERA RÁPIDO  olivina → piroxênio → anfibólio → biotita / plagioclásio cálcico
-               → feldspato potássico → muscovita → quartzo   ALTERA DEVAGAR (o mais estável)
+ALTERA RÁPIDO  máficos:   olivina → piroxênio → anfibólio → biotita
+               félsicos:  plagioclásio cálcico → plagioclásio sódico
+               depois:    feldspato potássico → muscovita → quartzo   ALTERA DEVAGAR (o mais estável)
 ```
 
 | Estáveis (resistem) | Instáveis (alteram) |
@@ -55,7 +56,7 @@ ALTERA RÁPIDO  olivina → piroxênio → anfibólio → biotita / plagioclási
 - Minerais **primários** = cristalizaram na rocha original. **Secundários** = formados pela alteração (argilominerais como caulinita e esmectita, óxidos de ferro).
 - **Problemáticos para a obra:** **argilominerais** (esmectita **expande** com água; baixo atrito), **micas e talco** (planos de deslizamento, baixo atrito), **sulfetos** (pirita oxida → ácido sulfúrico, ataca concreto e aço).
 - **Reativos em agregado de concreto** (reação álcali-agregado, o concreto racha): opala, calcedônia, quartzo tensionado, vidro vulcânico, cristobalita.
-- Ângulo de atrito: quartzo e feldspato ≈ 25–37°; micas e argilas ≈ 8–22°. Mais mica/argila → menos resistência ao cisalhamento.
+- Ângulo de atrito: quartzo, calcita e feldspato ≈ 23–37°; micas e argilas ≈ 8–22°. Mais mica/argila → menos resistência ao cisalhamento.
 - **Usos:** areias e britas (quartzo, feldspato) → agregado; filossilicatos (argila) → cerâmica; **carbonatos → cimento**.
 
 ## Bloco 4 · Identificação (aula prática)

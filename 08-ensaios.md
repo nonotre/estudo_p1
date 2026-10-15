@@ -54,9 +54,9 @@ Mede-se em 50 fragmentos o comprimento **a**, a largura **b** e a espessura **c*
 - É o ensaio "oficial", mas exige corpo de prova preparado, caro e demorado.
 
 **Compressão puntiforme (*point load*):** comprime um pedaço **irregular** ou de testemunho entre **duas ponteiras**. Portátil, barato, rápido.
-- Índice: **Is = P ÷ De²**, corrigido para diâmetro de 50 mm: **Is(50) = Is × (De ÷ 50)^0,45**.
+- Índice: **Is = P ÷ De²** (De = diâmetro equivalente; em pedaço irregular, De² = 4·W·D ÷ π, W = largura e D = distância entre as ponteiras), corrigido para diâmetro de 50 mm: **Is(50) = Is × (De ÷ 50)^0,45**.
 - Despreza os 2 maiores e os 2 menores resultados; Is(50) = média do resto.
-- **Estimativa: σc ≈ 25 × Is(50)**.
+- **Estimativa: σc ≈ 25 × Is(50)** (o slide usa 25; a literatura dá entre 20 e 25).
 - Limitações: **menos preciso** que o uniaxial e **não serve para rochas brandas**; bom para rochas duras fragmentadas.
 
 ---

@@ -16,19 +16,20 @@ O agente acha o próximo passo, conduz e atualiza este arquivo.
 1. Leia este índice inteiro e o [`meus-erros.md`](meus-erros.md).
 2. O passo atual é a **primeira linha com `[ ]`** da tabela de Passos, salvo se ela disser outro. Veja no **Registro** (fim do arquivo) se ela parou no meio de um passo e em qual bloco.
 3. Abra a sessão com 2 linhas: qual passo, quanto tempo está previsto, o que vai acontecer.
-4. **Relógio.** Rode `date +%H:%M` e anote no Registro: quando ela **começa a ler**, quando **termina a leitura**, e quando **termina o passo** (depois das questões). Não pergunte a hora para ela; leia do sistema. Ao fechar cada passo, compare com o previsto (coluna "Previsto" e horário-alvo) e diga em 1 linha se está adiantada, no ritmo ou atrasada, e quantos minutos.
-5. **Regra geral: aponte, não reescreva.** Se o conteúdo já está num arquivo (explicação de bloco, resposta do gabarito), mande o caminho com o número da linha (ex.: `03-igneas.md:23`) e o nome da seção. Confira a linha com `grep -n` antes. Escreva na conversa só o que não existe em arquivo: a correção da resposta dela, uma explicação nova com outro exemplo quando ela errar, as perguntas de checagem e as questões das provas antigas.
-6. **Como conduzir um passo** (siga também o "Roteiro do agente" do arquivo do passo):
+4. **Progresso é só pelo chat.** Ela não usa nenhum app de tarefas nem cronômetro (nada de Super Productivity). Quando ela disser no chat que terminou a leitura, uma questão ou o passo, **o agente** marca: `[x]` na tabela de Passos, linha no Registro, erros no `meus-erros.md`. Ela nunca marca nem edita nada.
+5. **Relógio.** Rode `date +%H:%M` e anote no Registro: quando ela **começa a ler**, quando **termina a leitura**, e quando **termina o passo** (depois das questões). Não pergunte a hora para ela; leia do sistema. Ao fechar cada passo, compare com o previsto (coluna "Previsto" e horário-alvo) e diga em 1 linha se está adiantada, no ritmo ou atrasada, e quantos minutos.
+6. **Regra geral: aponte, não reescreva.** Se o conteúdo já está num arquivo (explicação de bloco, resposta do gabarito), mande o caminho com o número da linha (ex.: `03-igneas.md:23`) e o nome da seção. Confira a linha com `grep -n` antes. Escreva na conversa só o que não existe em arquivo: a correção da resposta dela, uma explicação nova com outro exemplo quando ela errar, as perguntas de checagem e as questões das provas antigas.
+7. **Como conduzir um passo** (siga também o "Roteiro do agente" do arquivo do passo):
    1. Aponte o intervalo dos blocos (do primeiro bloco até "Questões das provas antigas", com as linhas). Ela lê **todos** os blocos de uma vez, sem responder às checagens, e avisa quando terminar. Anote a hora.
    2. Faça as **checagens em ordem, uma por vez**: escreva a pergunta completa na conversa, espere a resposta, corrija pelo `.gabarito.md`. Só então passe para a próxima.
    3. Depois, as **questões das provas antigas** do passo: escreva o enunciado completo na conversa (com o peso). Ela responde por escrito, como faria na prova. **Não mostre a resposta antes de ela tentar.** Corrija pelos critérios do gabarito: diga o que daria nota cheia, o que tiraria ponto e mostre a resposta-modelo.
    4. Se ela errar ou não entender, explique com suas palavras e com **outro** exemplo, sem repetir o texto do arquivo. Não avance com dúvida aberta.
-7. **Erros:** todo erro de conceito, atenção ou escrita vai para `meus-erros.md` (uma linha por erro). O passo 10 refaz esses erros.
-8. **Ao terminar um passo:** marque `[x]` na tabela e acrescente uma linha no Registro (horários, real × previsto). **Se parar no meio:** anote no Registro o passo e até onde foi (último bloco lido ou última questão corrigida).
-9. **Atraso.** Se no fim de um passo ela estiver **mais de 15 min atrasada** em relação ao horário-alvo, avise e proponha o próximo item da lista "Se atrasar, corte nesta ordem". Aplique só com o OK dela e anote aqui o que foi cortado. Se estiver adiantada, sugira gastar a folga no passo 10.
-10. **A prova é dissertativa.** Treine resposta escrita: o professor cobra **explicar** (processo + porquê) e **ligar à Engenharia Civil** (uso, problema, obra). Resposta só com nomes, sem o porquê, perde ponto. Corrija nesse critério.
-11. As respostas escritas no PDF da prova de 2014 (`material/Prova 2014_.pdf`) são **de um aluno, não um gabarito oficial**, e têm erros (ex.: diz que foliação "está relacionada à forma como as ligações químicas ocorrem"). Use o `.gabarito.md` dos passos.
-12. Pesquise na internet só se uma dúvida não estiver coberta pelos passos nem pelos slides.
+8. **Erros:** todo erro de conceito, atenção ou escrita vai para `meus-erros.md` (uma linha por erro). O passo 10 refaz esses erros.
+9. **Ao terminar um passo:** marque `[x]` na tabela e acrescente uma linha no Registro (horários, real × previsto). **Se parar no meio:** anote no Registro o passo e até onde foi (último bloco lido ou última questão corrigida).
+10. **Atraso.** Se no fim de um passo ela estiver **mais de 15 min atrasada** em relação ao horário-alvo, avise e proponha o próximo item da lista "Se atrasar, corte nesta ordem". Aplique só com o OK dela e anote aqui o que foi cortado. Se estiver adiantada, sugira gastar a folga no passo 10.
+11. **A prova é dissertativa.** Treine resposta escrita: o professor cobra **explicar** (processo + porquê) e **ligar à Engenharia Civil** (uso, problema, obra). Resposta só com nomes, sem o porquê, perde ponto. Corrija nesse critério.
+12. As respostas escritas no PDF da prova de 2014 (`material/Prova 2014_.pdf`) são **de um aluno, não um gabarito oficial**, e têm erros (ex.: diz que foliação "está relacionada à forma como as ligações químicas ocorrem"). Use o `.gabarito.md` dos passos.
+13. Pesquise na internet só se uma dúvida não estiver coberta pelos passos nem pelos slides.
 
 ---
 

@@ -31,7 +31,7 @@ Raio ≈ 6.371 km. Há duas formas de dividir, e a prova pode pedir as duas.
 | Camada | Profundidade | Estado |
 |---|---|---|
 | **Litosfera** | 0–100 km | rígida: crosta + topo do manto. É ela que se quebra em **placas** |
-| **Astenosfera** | 100–≈ 670 km | **plástica** (sólida, mas flui devagar). As placas deslizam sobre ela |
+| **Astenosfera** | 100–≈ 350 km (o slide estende até 670 km) | **plástica** (sólida, mas flui devagar). As placas deslizam sobre ela |
 | Mesosfera | 670–2.900 km | sólida, rígida |
 | Núcleo | 2.900–6.371 km | externo líquido, interno sólido |
 
@@ -75,7 +75,7 @@ A litosfera é dividida em **placas** que se movem (cm/ano) sobre a astenosfera,
 | **Convergente** | placas se chocam | subducção (uma afunda e funde → magma), cordilheiras, **metamorfismo regional**, terremotos fortes | Andes, Himalaia |
 | **Transformante** | placas deslizam lado a lado | falhas e terremotos | Falha de San Andreas |
 
-O Brasil está **no meio** da Placa Sul-Americana (longe dos limites) → poucos terremotos fortes. Mas as rochas antigas daqui guardam limites de placas antigos (ex.: a Serra do Mar, o derrame de basalto da Bacia do Paraná quando a África se separou).
+O Brasil está **no meio** da Placa Sul-Americana (longe dos limites) → poucos terremotos fortes. Mas a tectônica deixou marcas aqui: o embasamento cristalino do leste (gnaisses, granitos) nasceu em colisões de placas há mais de 500 milhões de anos; o basalto da Bacia do Paraná derramou quando a América do Sul começou a se separar da África (≈ 130 milhões de anos); e a escarpa da Serra do Mar é resultado de falhas normais ligadas a essa separação.
 
 ## Bloco 5 · Ciclo das rochas e os materiais geológicos
 

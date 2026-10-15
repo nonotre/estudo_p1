@@ -47,14 +47,16 @@ De cima para baixo, o que um furo de sondagem atravessa:
 
 | Sigla | Nome | Sinais |
 |---|---|---|
-| **A1** | rocha sã | minerais com **brilho**, cor original, quebra **com dificuldade** ao martelo, lâmina de aço não risca |
-| A2 | pouco alterada | leve perda de brilho e mudança de cor |
-| **A3** | medianamente alterada | minerais **sem brilho**, cor mascarada pela alteração, quebra com relativa facilidade |
-| **A4** | muito alterada | minerais **pulverulentos**, quebra fácil, bordas quebram **com os dedos**, aço risca fundo |
+| **A1** | rocha sã ou praticamente sã | minerais com **brilho**, cor original pouco modificada, quebra **com dificuldade** ao martelo, bordas cortantes resistem à lâmina de aço |
+| **A2** | medianamente alterada | minerais **sem brilho**, cor original mascarada pela alteração, quebra com relativa facilidade, bordas abatidas pela lâmina de aço |
+| **A3** | muito alterada | minerais **pulverulentos**, totalmente sem brilho, quebra fácil, bordas quebram **com os dedos**, aço risca fundo |
+| A4 | extremamente alterada | minerais totalmente alterados, cor e aspecto de solo |
+
+O slide da aula junta "muito a extremamente alterada" em A3 (tabela do basalto) e usa A4 só na foto dos testemunhos; a classificação do IPT separa A3 (muito) e A4 (extremamente). Na prova, o que importa é **descrever os sinais** de cada grau.
 
 Características usadas: **cor e brilho dos minerais**, **friabilidade**, **resistência ao martelo**, **risco com lâmina de aço**, minerais secundários (argila, óxidos) e estado das fraturas (preenchimento). É uma classificação **relativa** (compara amostras da mesma rocha).
 
-**Coerência (C1 a C4)**: para **sedimentares**, onde a alteração nem sempre muda a cor. Avalia **tenacidade, dureza e friabilidade** pelo **martelo** e pelo **canivete**. Às vezes a alteração até **melhora** o arenito (óxido de ferro cimenta: limonitização).
+**Coerência (C1 a C4)**: para **sedimentares**, onde a alteração nem sempre muda a cor. Avalia **tenacidade, dureza e friabilidade** pelo **martelo** e pelo **canivete**: de **C1** (coerente: bordas cortantes, difícil de riscar, quebra com dificuldade) a **C4** (friável: quebra com a pressão dos dedos, cortada pelo aço). Às vezes a alteração até **melhora** o arenito (óxido de ferro cimenta: limonitização).
 
 ## Bloco 4 · Recuperação, RQD e fraturamento (sondagem rotativa)
 
@@ -76,7 +78,7 @@ RQD (%) = soma só dos pedaços com ≥ 10 cm (cm)       ÷ comprimento da manob
 | 75–90% | bom |
 | 90–100% | excelente |
 
-**Grau de fraturamento (F1 a F5)**: nº de fraturas por metro (F1 ocasionalmente fraturado, < 1/m … F5 extremamente fraturado, > 20/m). Controla **permeabilidade, deformabilidade e resistência**; em túnel, blocos menores que a abertura caem.
+**Grau de fraturamento (F1 a F5)**: nº de fraturas por metro (F1 pouco fraturado, 0–1/m · F2 fraturado, 2–5/m · F3 muito fraturado, 6–10/m · F4 extremamente fraturado, 11–20/m · F5 fragmentado, > 20/m). Controla **permeabilidade, deformabilidade e resistência**; em túnel, blocos menores que a abertura caem.
 
 ## Bloco 5 · Ensaios para usar a rocha
 

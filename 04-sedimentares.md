@@ -52,7 +52,7 @@ Nomes da aula prática: rudáceas (cascalho), arenáceas (areia), lutáceas (sil
 
 - **Estratificação**: camadas formadas pela deposição contínua.
   - **plano-paralela**: água calma (lago, mar);
-  - **cruzada**: correntes ou vento empurrando dunas (rio, deserto). Ex.: **Arenito Botucatu**, deserto de ≈ 100 milhões de anos, hoje o grande **aquífero Guarani** (SP).
+  - **cruzada**: correntes ou vento empurrando dunas (rio, deserto). Ex.: **Arenito Botucatu**, deserto de ≈ 130–140 milhões de anos (o slide arredonda para ≈ 100), hoje o grande **aquífero Guarani** (SP).
 - **Superposição**: numa sequência não perturbada, **a camada de baixo é mais antiga**. Ler o perfil **de baixo para cima** é ler o tempo passando.
 - Cor: vermelho/amarelo = óxido de ferro (ambiente oxidante); cinza/preto = matéria orgânica (ambiente redutor, sem oxigênio).
 
